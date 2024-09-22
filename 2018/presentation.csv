@@ -1,94 +1,94 @@
 Place,Car No.,Team,Team.1,Score
-1,32,神戸大学,Kobe University,75.0
-2,2,芝浦工業大学,Shibaura Institute of Technology,71.25
+1,32,�_�ˑ�w,Kobe University,75.0
+2,2,�ŉY�H�Ƒ�w,Shibaura Institute of Technology,71.25
 3,45,Universitas Gadjah Mada,Universitas Gadjah Mada,67.5
-4,4,日本自動車大学校,Nihon Automobile College,63.75
-4,7,名城大学,Meijo University,63.75
-4,11,静岡大学,Shizuoka University,63.75
-4,15,日本工業大学,Nippon Institute of Technology,63.75
-4,28,上智大学,Sophia University,63.75
-4,39,金沢工業大学,Kanazawa Institute of Technology,63.75
-10,21,早稲田大学,Waseda University,60.0
+4,4,���{�����ԑ�w�Z,Nihon Automobile College,63.75
+4,7,�����w,Meijo University,63.75
+4,11,�É���w,Shizuoka University,63.75
+4,15,���{�H�Ƒ�w,Nippon Institute of Technology,63.75
+4,28,��q��w,Sophia University,63.75
+4,39,����H�Ƒ�w,Kanazawa Institute of Technology,63.75
+10,21,����c��w,Waseda University,60.0
 10,53,Institut Teknologi Sepuluh Nopember,Institut Teknologi Sepuluh Nopember,60.0
-10,E1,名古屋大学EV,Nagoya University EV,60.0
-13,3,名古屋工業大学,Nagoya Institute of Technology,56.25
-13,5,横浜国立大学,Yokohama National University,56.25
+10,E1,���É���wEV,Nagoya University EV,60.0
+13,3,���É��H�Ƒ�w,Nagoya Institute of Technology,56.25
+13,5,���l������w,Yokohama National University,56.25
 13,6,Tongji University,Tongji University,56.25
-13,12,大阪大学,Osaka University,56.25
-13,23,東海大学,Tokai University,56.25
+13,12,����w,Osaka University,56.25
+13,23,���C��w,Tokai University,56.25
 13,43,Universitas Negeri Yogyakarta,Universitas Negeri Yogyakarta,56.25
 13,E4,Tongji University EV,Tongji University EV,56.25
-13,E6,一関工業高等専門学校/岩手大学EV,"National Institute of Technology, Ichinoskei College / Iwate University EV",56.25
-21,1,京都工芸繊維大学,Kyoto Institute of Technology,52.5
-21,9,京都大学,Kyoto University,52.5
-21,19,立命館大学,Ritsumeikan University,52.5
-21,56,東京大学,The University of Tokyo,52.5
-21,57,トヨタ名古屋自動車大学校,TOYOTATECHNICALCOLLEGE,52.5
-21,58,埼玉大学,Saitama University,52.5
-21,61,近畿大学,Kindai University,52.5
+13,E6,��֍H�ƍ������w�Z/����wEV,"National Institute of Technology, Ichinoskei College / Iwate University EV",56.25
+21,1,���s�H�|�@�ۑ�w,Kyoto Institute of Technology,52.5
+21,9,���s��w,Kyoto University,52.5
+21,19,�����ّ�w,Ritsumeikan University,52.5
+21,56,������w,The University of Tokyo,52.5
+21,57,�g���^���É������ԑ�w�Z,TOYOTATECHNICALCOLLEGE,52.5
+21,58,��ʑ�w,Saitama University,52.5
+21,61,�ߋE��w,Kindai University,52.5
 21,76,U.A.S. Graz,U.A.S. Graz,52.5
-21,E3,東北大学EV,Tohoku University EV,52.5
-30,13,福井大学,University of Fukui,48.75
-30,16,岡山大学,Okayama Unversity,48.75
-30,51,愛知工業大学,Aichi Institute Of Technology,48.75
-30,52,北九州市立大学,The University of Kitakyushu,48.75
+21,E3,���k��wEV,Tohoku University EV,52.5
+30,13,�����w,University of Fukui,48.75
+30,16,���R��w,Okayama Unversity,48.75
+30,51,���m�H�Ƒ�w,Aichi Institute Of Technology,48.75
+30,52,�k��B�s����w,The University of Kitakyushu,48.75
 30,82,Kumoh National Institute of Technology / Kongju National University,Kumoh National Institute of Technology / Kongju National University,48.75
 30,86,Universiti Putra Malaysia,Universiti Putra Malaysia,48.75
-30,E10,静岡理工科大学EV,Shizuoka Insutitute Science and Technology EV,48.75
-30,E14,豊橋技術科学大学EV,Toyohashi University of Technology EV,48.75
-38,10,千葉大学,Chiba University,45.0
-38,14,東京都市大学,Tokyo City University,45.0
+30,E10,�É����H�ȑ�wEV,Shizuoka Insutitute Science and Technology EV,48.75
+30,E14,�L���Z�p�Ȋw��wEV,Toyohashi University of Technology EV,48.75
+38,10,��t��w,Chiba University,45.0
+38,14,�����s�s��w,Tokyo City University,45.0
 38,17,KASETSART UNIVERSITY,KASETSART UNIVERSITY,45.0
 38,44,Prince of Songkla University,Prince of Songkla University,45.0
-38,69,大阪府立大学,Osaka Prefecture University,45.0
+38,69,���{����w,Osaka Prefecture University,45.0
 38,E16,Guangdong University of Technology EV,Guangdong University of Technology EV,45.0
 38,E22,Central South University EV,Central South University EV,45.0
-45,31,山陽小野田市立山口東京理科大学,Sanyo-onoda City University,41.25
-45,65,九州大学,Kyushu University,41.25
-45,80,群馬大学,Gunma University,41.25
-45,E13,専門学校トヨタ東京自動車大学校 EV,Toyota Technical College Tokyo EV,41.25
-49,8,東京理科大学,Tokyo University of Science,37.5
-49,20,大阪工業大学,Osaka Institute of Technology,37.5
-49,30,山梨大学,University of Yamanashi,37.5
-49,41,ものつくり大学,Institute of Technologists,37.5
-49,49,鳥取大学,Tottori university,37.5
-49,59,崇城大学,soujyoudaigaku,37.50
-49,66,富山大学,University of Toyama,37.5
+45,31,�R�z����c�s���R���������ȑ�w,Sanyo-onoda City University,41.25
+45,65,��B��w,Kyushu University,41.25
+45,80,�Q�n��w,Gunma University,41.25
+45,E13,���w�Z�g���^���������ԑ�w�Z EV,Toyota Technical College Tokyo EV,41.25
+49,8,�������ȑ�w,Tokyo University of Science,37.5
+49,20,���H�Ƒ�w,Osaka Institute of Technology,37.5
+49,30,�R����w,University of Yamanashi,37.5
+49,41,���̂����w,Institute of Technologists,37.5
+49,49,�����w,Tottori university,37.5
+49,59,�����w,soujyoudaigaku,37.50
+49,66,�x�R��w,University of Toyama,37.5
 49,68,Sebelas Maret University,Sebelas Maret University,37.5
-49,71,広島工業大学,Hiroshima Institute of Technology,37.5
+49,71,�L���H�Ƒ�w,Hiroshima Institute of Technology,37.5
 49,74,Universitas Indonesia,Universitas Indonesia,37.5
-49,E8,トヨタ名古屋自動車大学校EV,TOYOTA TECHNICAL COLLEGE NAGOYA EV,37.5
+49,E8,�g���^���É������ԑ�w�ZEV,TOYOTA TECHNICAL COLLEGE NAGOYA EV,37.5
 49,E15,National Tsing Hua University EV,National Tsing Hua University EV,37.5
-61,18,茨城大学,Ibaraki University,33.75
-61,26,東京農工大学,Tokyo University of Agriculture and Technology,33.75
+61,18,����w,Ibaraki University,33.75
+61,26,�����_�H��w,Tokyo University of Agriculture and Technology,33.75
 61,34,King Mongkut's University of Technology Thonburi,King Mongkut's University of Technology Thonburi,33.75
-61,35,岐阜大学,GifuUniversity,33.75
-61,37,大阪産業大学,Osaka Sangyo University,33.75
-61,42,金沢大学,Kanazawa University,33.75
-61,48,岡山理科大学,Okayama University of Science,33.75
-61,60,帝京大学,Teikyo University,33.75
+61,35,�򕌑�w,GifuUniversity,33.75
+61,37,���Y�Ƒ�w,Osaka Sangyo University,33.75
+61,42,�����w,Kanazawa University,33.75
+61,48,���R���ȑ�w,Okayama University of Science,33.75
+61,60,�鋞��w,Teikyo University,33.75
 69,24,National Tsing Hua University,National Tsing Hua University EV,30.0
-69,50,新潟大学,Niigata University,30.0
-69,55,明星大学,Meisei University,30.0
-72,29,九州工業大学,Kyushu Institute of Technology,26.25
-72,47,北海道大学,Hokkaido University,26.25
-72,E7,神奈川大学EV,Kanagawa University EV,26.25
-75,54,千葉工業大学,Chiba Institute of Technology,22.5
+69,50,�V����w,Niigata University,30.0
+69,55,������w,Meisei University,30.0
+72,29,��B�H�Ƒ�w,Kyushu Institute of Technology,26.25
+72,47,�k�C����w,Hokkaido University,26.25
+72,E7,�_�ސ��wEV,Kanagawa University EV,26.25
+75,54,��t�H�Ƒ�w,Chiba Institute of Technology,22.5
 75,73,Southern Taiwan University of Science Technology/XIAMEN University of Technology,Southern Taiwan University of Science Technology/XIAMEN University of Technology,22.5
-75,79,工学院大学,Kogakuin University,22.5
-78,36,久留米工業大学,Kurume Institute of Technolory,18.75
-78,38,日本大学 生産工学部,"College of Industrial Technology, Nihon University",18.75
-78,46,宇都宮大学,Utsunomiya University,18.75
-78,62,日本大学理工学部,Nihon University College of science and technology,18.75
-78,63,摂南大学,setsunanuniversity,18.75
-78,67,静岡工科自動車大学校,Shizuoka Professional College Of Automobile Technology,18.75
-78,77,同志社大学,Doshisha University,18.75
+75,79,�H�w�@��w,Kogakuin University,22.5
+78,36,�v���čH�Ƒ�w,Kurume Institute of Technolory,18.75
+78,38,���{��w ���Y�H�w��,"College of Industrial Technology, Nihon University",18.75
+78,46,�F�s�{��w,Utsunomiya University,18.75
+78,62,���{��w���H�w��,Nihon University College of science and technology,18.75
+78,63,�ۓ��w,setsunanuniversity,18.75
+78,67,�É��H�Ȏ����ԑ�w�Z,Shizuoka Professional College Of Automobile Technology,18.75
+78,77,���u�Б�w,Doshisha University,18.75
 78,85,Yeungnam University,Yeungnam University,18.75
-86,22,静岡理工科大学,Shizuoka Insutitute Science and Technology,15.0
-86,25,ホンダテクニカルカレッジ関東,Honda Technical College Kanto,15.0
+86,22,�É����H�ȑ�w,Shizuoka Insutitute Science and Technology,15.0
+86,25,�z���_�e�N�j�J���J���b�W�֓�,Honda Technical College Kanto,15.0
 88,E19,INSTITUT TEKNOLOGI SEPULUH NOPEMBER EV,INSTITUT TEKNOLOGI SEPULUH NOPEMBER EV,11.25
-89,72,東京工科自動車大学校世田谷校,Tokyo Technical College Setagaya Campus,0.0
-89,E21,九州工業大学EV,Kyushu Institute of Technology,0.0
-89,70,西日本工業大学,nishinipponkougyoudaigaku,0.0
-89,83,広島大学,Hiroshima University,0.0
+89,72,�����H�Ȏ����ԑ�w�Z���c�J�Z,Tokyo Technical College Setagaya Campus,0.0
+89,E21,��B�H�Ƒ�wEV,Kyushu Institute of Technology,0.0
+89,70,�����{�H�Ƒ�w,nishinipponkougyoudaigaku,0.0
+89,83,�L����w,Hiroshima University,0.0
 89,E23,UNIVERSITAS ISLAM INDONESIA EV,UNIVERSITAS ISLAM INDONESIA EV,0.0

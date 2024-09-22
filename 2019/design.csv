@@ -1,91 +1,91 @@
 Place,Car No.,Team,Team.1,Score
-1,26,äº¬éƒ½å¤§å­¦,Kyoto University,150
-2,1,å¤§é˜ªå¤§å­¦,Osaka university,147
-3,E01,åå¤å±‹å¤§å­¦EV,Nagoya UniversityEV,125
-4,2,äº¬éƒ½å·¥èŠ¸ç¹Šç¶­å¤§å­¦,Kyoto Institute of Technology,119
-4,10,æ¨ªæµœå›½ç«‹å¤§å­¦,Yokohama National University,119
-6,9,æ±äº¬ç†ç§‘å¤§å­¦,Tokyo University of Science,118
-7,13,èŒ¨åŸå¤§å­¦,Ibaraki University,117
+1,26,‹“s‘åŠw,Kyoto University,150
+2,1,‘åã‘åŠw,Osaka university,147
+3,E01,–¼ŒÃ‰®‘åŠwEV,Nagoya UniversityEV,125
+4,2,‹“sHŒ|‘@ˆÛ‘åŠw,Kyoto Institute of Technology,119
+4,10,‰¡•l‘—§‘åŠw,Yokohama National University,119
+6,9,“Œ‹—‰È‘åŠw,Tokyo University of Science,118
+7,13,ˆïé‘åŠw,Ibaraki University,117
 8,3,Tongji University,Tongji University,112
 8,E02,Tongji UniversityEV,Tongji UniversityEV,112
 10,E20,JiLin UniversityEV,JiLin UniversityEV,107
-11,15,æ±äº¬éƒ½å¸‚å¤§å­¦,Tokyo City Univercity,98
-12,4,ååŸå¤§å­¦,Meijo University,92
-12,32,åƒè‘‰å¤§å­¦,Chiba University,92
-14,20,æ—©ç¨²ç”°å¤§å­¦,Waseda University,91
-15,8,ç¥æˆ¸å¤§å­¦,Kobe University,90
-15,E03,è±Šæ©‹æŠ€è¡“ç§‘å­¦å¤§å­¦EV,Toyohashi University of TechnologyEV,90
+11,15,“Œ‹“ss‘åŠw,Tokyo City Univercity,98
+12,4,–¼é‘åŠw,Meijo University,92
+12,32,ç—t‘åŠw,Chiba University,92
+14,20,‘ˆî“c‘åŠw,Waseda University,91
+15,8,_ŒË‘åŠw,Kobe University,90
+15,E03,–L‹´‹Zp‰ÈŠw‘åŠwEV,Toyohashi University of TechnologyEV,90
 17,75,Harbin Institute of Technology at Weihai,Harbin Institute of Technology at Weihai,88
-18,7,åå¤å±‹å·¥æ¥­å¤§å­¦,Nagoya Institute of Technology,87
-19,28,ä¸Šæ™ºå¤§å­¦,Sophia University,86
-20,66,å·¥å­¦é™¢å¤§å­¦,Kogakuin University,84
+18,7,–¼ŒÃ‰®H‹Æ‘åŠw,Nagoya Institute of Technology,87
+19,28,ã’q‘åŠw,Sophia University,86
+20,66,HŠw‰@‘åŠw,Kogakuin University,84
 21,22,Universitas Gadjah Mada,Universitas Gadjah Mada,82
-22,5,èŠæµ¦å·¥æ¥­å¤§å­¦,Shibaura Institute of Technology,80
-22,31,ä¹å·å·¥æ¥­å¤§å­¦,Kyushu Institute of Technology,80
-24,40,é‡‘æ²¢å·¥æ¥­å¤§å­¦,Kanazawa Institute of Technology,79
+22,5,Å‰YH‹Æ‘åŠw,Shibaura Institute of Technology,80
+22,31,‹ãBH‹Æ‘åŠw,Kyushu Institute of Technology,80
+24,40,‹à‘òH‹Æ‘åŠw,Kanazawa Institute of Technology,79
 25,E04,National Tsing Hua UniversityEV,National Tsing Hua UniversityEV,78
 25,E22,Harbin Institute of Technology at WeihaiEV,Harbin Institute of Technology at WeihaiEV,78
-27,37,å²¡å±±å¤§å­¦,Okayama University,77
-28,34,åŸ¼ç‰å¤§å­¦,Saitama University,76
+27,37,‰ªR‘åŠw,Okayama University,77
+28,34,é‹Ê‘åŠw,Saitama University,76
 28,76,National Taipei University of Technology,National Taipei University of Technology,76
-30,14,æ±äº¬è¾²å·¥å¤§å­¦,Tokyo University of Agriculture and Technology,74
-31,35,å²é˜œå¤§å­¦,Gifu University,73
-31,62,å¯Œå±±å¤§å­¦,University of Toyama,73
-33,6,æ±æµ·å¤§å­¦,Tokai university,70
-33,47,åŒå¿—ç¤¾å¤§å­¦,doshisha university,70
-35,12,é™å²¡å¤§å­¦,Shizuoka University,68
-36,11,ç¦äº•å¤§å­¦,University of Fukui,67
-36,19,å±±é™½å°é‡ç”°å¸‚ç«‹å±±å£æ±äº¬ç†ç§‘å¤§å­¦,Sanyo-onoda City University,67
-36,23,æ—¥æœ¬è‡ªå‹•è»Šå¤§å­¦æ ¡,Nihon Automobile College,67
-36,52,æ—¥æœ¬å¤§å­¦ç†å·¥å­¦éƒ¨,"College of Sience and Technology, Nihon University",67
-36,53,ä¹…ç•™ç±³å·¥æ¥­å¤§å­¦,Kurume Institute of Technology,67
-41,21,é™å²¡ç†å·¥ç§‘å¤§å­¦,Shizuoka Institute of Science and Technology,66
-42,56,æ±äº¬å¤§å­¦,The University of Tokyo,63
-42,63,å¤§é˜ªåºœç«‹å¤§å­¦,Osaka Prefecture University,63
+30,14,“Œ‹”_H‘åŠw,Tokyo University of Agriculture and Technology,74
+31,35,Šò•Œ‘åŠw,Gifu University,73
+31,62,•xR‘åŠw,University of Toyama,73
+33,6,“ŒŠC‘åŠw,Tokai university,70
+33,47,“¯uĞ‘åŠw,doshisha university,70
+35,12,Ã‰ª‘åŠw,Shizuoka University,68
+36,11,•Ÿˆä‘åŠw,University of Fukui,67
+36,19,R—z¬–ì“cs—§RŒû“Œ‹—‰È‘åŠw,Sanyo-onoda City University,67
+36,23,“ú–{©“®Ô‘åŠwZ,Nihon Automobile College,67
+36,52,“ú–{‘åŠw—HŠw•”,"College of Sience and Technology, Nihon University",67
+36,53,‹v—¯•ÄH‹Æ‘åŠw,Kurume Institute of Technology,67
+41,21,Ã‰ª—H‰È‘åŠw,Shizuoka Institute of Science and Technology,66
+42,56,“Œ‹‘åŠw,The University of Tokyo,63
+42,63,‘åã•{—§‘åŠw,Osaka Prefecture University,63
 44,80,Hoseo University,Hoseo University,62
-45,49,ç«‹å‘½é¤¨å¤§å­¦,Ritsumeikan University,61
-46,44,æ–°æ½Ÿå¤§å­¦,Niigata University,59
-47,45,é‡‘æ²¢å¤§å­¦,Kanazawa University,58
-47,54,é™å²¡å·¥ç§‘è‡ªå‹•è»Šå¤§å­¦æ ¡,Shizuoka Professional College Of Automobile Technology,58
-49,33,å¤§é˜ªå·¥æ¥­å¤§å­¦,Osaka Institute of Technology,57
-49,43,ãƒˆãƒ¨ã‚¿åå¤å±‹è‡ªå‹•è»Šå¤§å­¦æ ¡,Toyota Technical College Nagoya,57
+45,49,—§–½ŠÙ‘åŠw,Ritsumeikan University,61
+46,44,VŠƒ‘åŠw,Niigata University,59
+47,45,‹à‘ò‘åŠw,Kanazawa University,58
+47,54,Ã‰ªH‰È©“®Ô‘åŠwZ,Shizuoka Professional College Of Automobile Technology,58
+49,33,‘åãH‹Æ‘åŠw,Osaka Institute of Technology,57
+49,43,ƒgƒˆƒ^–¼ŒÃ‰®©“®Ô‘åŠwZ,Toyota Technical College Nagoya,57
 49,70,Hanyang University,Hanyang University,57
-52,29,å±±æ¢¨å¤§å­¦,University of Yamanashi,55
-52,46,é³¥å–å¤§å­¦,Tottori University,55
-54,24,æ„›çŸ¥å·¥æ¥­å¤§å­¦,Aichi Institute of Technology,54
+52,29,R—œ‘åŠw,University of Yamanashi,55
+52,46,’¹æ‘åŠw,Tottori University,55
+54,24,ˆ¤’mH‹Æ‘åŠw,Aichi Institute of Technology,54
 55,17,Kasetsart University,Kasetsart University,52
-55,38,å¤§é˜ªç”£æ¥­å¤§å­¦,Osaka Sangyo University,52
-55,58,ç¾¤é¦¬å¤§å­¦,Gunma University,52
-55,E25,æˆè¹Šå¤§å­¦EV,SEIKEI UniversityEV,52
-59,41,åŒ—ä¹å·å¸‚ç«‹å¤§å­¦,The University of Kitakyushu,51
+55,38,‘åãY‹Æ‘åŠw,Osaka Sangyo University,52
+55,58,ŒQ”n‘åŠw,Gunma University,52
+55,E25,¬æü‘åŠwEV,SEIKEI UniversityEV,52
+59,41,–k‹ãBs—§‘åŠw,The University of Kitakyushu,51
 60,50,Institut Teknologi Sepuluh Nopember,Institut Teknologi Sepuluh Nopember,48
 61,55,Sebelas Maret University,Sebelas Maret University,47
-62,16,æ—¥æœ¬å·¥æ¥­å¤§å­¦,Nippon Institute of Technology,46
+62,16,“ú–{H‹Æ‘åŠw,Nippon Institute of Technology,46
 62,18,Universitas Negeri Yogyakarta,Universitas Negeri Yogyakarta,46
-62,25,ãƒ›ãƒ³ãƒ€å­¦åœ’ ãƒ›ãƒ³ãƒ€ãƒ†ã‚¯ãƒ‹ã‚«ãƒ«ã‚«ãƒ¬ãƒƒã‚¸é–¢æ±,Honda Gakuen Honda Technical College Kanto,46
-62,69,åºƒå³¶å¤§å­¦,Hiroshima University,46
-66,79,é¦–éƒ½å¤§å­¦æ±äº¬,Tokyo Metropolitan University,43
-66,E08,æ±åŒ—å¤§å­¦EV,Tohoku UniversityEV,43
-66,E27,ç¥å¥ˆå·å·¥ç§‘å¤§å­¦,Kanagawa Institute of Technology,43
+62,25,ƒzƒ“ƒ_Šw‰€ ƒzƒ“ƒ_ƒeƒNƒjƒJƒ‹ƒJƒŒƒbƒWŠÖ“Œ,Honda Gakuen Honda Technical College Kanto,46
+62,69,L“‡‘åŠw,Hiroshima University,46
+66,79,ñ“s‘åŠw“Œ‹,Tokyo Metropolitan University,43
+66,E08,“Œ–k‘åŠwEV,Tohoku UniversityEV,43
+66,E27,_“ŞìH‰È‘åŠw,Kanagawa Institute of Technology,43
 69,E18,National Cheng Kung University EV,National Cheng Kung University EV,42
-70,E05,ä¸€é–¢å·¥æ¥­é«˜ç­‰å°‚é–€å­¦æ ¡/å²©æ‰‹å¤§å­¦EV,"National Institute of Technology, Ichinoseki College/Iwate UniversityEV",41
-70,E10,ãƒˆãƒ¨ã‚¿æ±äº¬è‡ªå‹•è»Šå¤§å­¦æ ¡EV,Toyota Technical College TokyoEV,41
-72,39,ã‚‚ã®ã¤ãã‚Šå¤§å­¦,Institute of Technologists,39
+70,E05,ˆêŠÖH‹Æ‚“™ê–åŠwZ/Šâè‘åŠwEV,"National Institute of Technology, Ichinoseki College/Iwate UniversityEV",41
+70,E10,ƒgƒˆƒ^“Œ‹©“®Ô‘åŠwZEV,Toyota Technical College TokyoEV,41
+72,39,‚à‚Ì‚Â‚­‚è‘åŠw,Institute of Technologists,39
 73,27,Prince of Songkla University,Prince of Songkla University,38
 73,E21,National Taipei University of TechnologyEV,National Taipei University of TechnologyEV,38
-75,30,å¸äº¬å¤§å­¦,Teikyo University,37
+75,30,’é‹‘åŠw,Teikyo University,37
 75,E24,Universitas Gadjah MadaEV,Universitas Gadjah MadaEV,37
 77,E12,INSTITUT TEKNOLOGI SEPULUH NOPEMBEREV,INSTITUT TEKNOLOGI SEPULUH NOPEMBEREV,34
-78,57,ä¹å·å¤§å­¦,Kyushu University,33
-79,68,åƒè‘‰å·¥æ¥­å¤§å­¦,Chiba Institute of Technology,32
-80,E06,ãƒˆãƒ¨ã‚¿åå¤å±‹è‡ªå‹•è»Šå¤§å­¦æ ¡EV,Toyota Technical College NagoyaEV,30
-81,E07,ç¥å¥ˆå·å¤§å­¦EV,Kanagawa UniversityEV,27
+78,57,‹ãB‘åŠw,Kyushu University,33
+79,68,ç—tH‹Æ‘åŠw,Chiba Institute of Technology,32
+80,E06,ƒgƒˆƒ^–¼ŒÃ‰®©“®Ô‘åŠwZEV,Toyota Technical College NagoyaEV,30
+81,E07,_“Şì‘åŠwEV,Kanagawa UniversityEV,27
 82,E19,National Taiwan UniversityEV,National Taiwan UniversityEV,24
-83,67,å´‡åŸå¤§å­¦,Sojo University,23
+83,67,’é‘åŠw,Sojo University,23
 84,E16,Rajshahi University of Engineering & TechnologyEV,Rajshahi University of Engineering & TechnologyEV,22
-85,61,è¿‘ç•¿å¤§å­¦,Kindai university,21
-86,51,æ‘‚å—å¤§å­¦,Setsunan University,18
-87,59,åºƒå³¶å·¥æ¥­å¤§å­¦,Hiroshima Institute of Technology,17
-88,65,æ˜æ˜Ÿå¤§å­¦,Meisei University,11
+85,61,‹ß‹E‘åŠw,Kindai university,21
+86,51,Û“ì‘åŠw,Setsunan University,18
+87,59,L“‡H‹Æ‘åŠw,Hiroshima Institute of Technology,17
+88,65,–¾¯‘åŠw,Meisei University,11
 89,E11,Universitas Islam IndonesiaEV,Universitas Islam IndonesiaEV,5
-89,E26,æ—¥ç”£äº¬éƒ½è‡ªå‹•è»Šå¤§å­¦æ ¡EV,Nissan Automobile Technical College KyotoEV,5
+89,E26,“úY‹“s©“®Ô‘åŠwZEV,Nissan Automobile Technical College KyotoEV,5
