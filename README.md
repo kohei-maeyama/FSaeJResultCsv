@@ -30,11 +30,17 @@ csvファイルはshift-jisでエンコーディングされています。
 
 ### UTF-8対応
 
-utf-8に変換するソフトをリリースしています。
+utf-8に変換するソフトをGitHubのReleasesページに公開しています。（Windows・Linux）
 
-使い方の`README.md`とソースコード(言語: Rust)が`converter`フォルダにあります。
+ソースコード(言語: Rust)は`converter`フォルダにあります。
 
-ビルド済みの実行ファイルはGitHubのReleasesページに公開しています。（Windows・Linux）
+#### 使い方
+
+Linuxユーザーは`converter.exe`を`converter`に読み替えてください。
+
+1. `converter.exe`を本README.mdのある階層に置く。
+
+2. プログラムを実行する。（ダブルクリックする）
 
 ## 課題提起・提案・要望
 
