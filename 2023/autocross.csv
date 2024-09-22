@@ -1,70 +1,70 @@
 Place,Car No.,Team,Team.1,Run #1 Time,Run #1 # of Cones,Run #1 Off Course/Missed Slalom,Run #1 Adj.,Run #2 Time,Run #2 # of Cones,Run #2 Off Course/Missed Slalom,Run #2 Adj.,Run #3 Time,Run #3 # of Cones,Run #3 Off Course/Missed Slalom,Run #3 Adj.,Run #4 Time,Run #4 # of Cones,Run #4 Off Course/Missed Slalom,Run #4 Adj.,Viocount,Best Time,Event Score
-1,1,Kyoto Institute of Technology,äº¬éƒ½å·¥èŠ¸ç¹Šç¶­å¤§å­¦,58.550,0,0,58.550,56.977,0,0,56.977,57.394,2,0,61.394,55.905,0,0,55.905,0,55.905,125.0
-2,7,Kogakuin University,å·¥å­¦é™¢å¤§å­¦,61.335,1,0,63.335,59.648,0,0,59.648,58.421,0,0,58.421,56.625,0,0,56.625,0,56.625,120.14
-3,4,Chiba University,åƒè‘‰å¤§å­¦,59.911,0,0,59.911,57.681,0,0,57.681,61.178,1,0,63.178,85.028,4,0,93.028,0,57.681,113.24
-4,8,Meijo University,ååŸŽå¤§å­¦,59.292,0,0,59.292,58.159,0,0,58.159,,,,DNF,,,,DNF,0,58.159,110.2
-5,14,Gifu University,å²é˜œå¤§å­¦,59.775,5,0,69.775,58.225,0,0,58.225,58.317,1,0,60.317,58.247,0,0,58.247,0,58.225,109.78
-6,3,Nihon Automobile College,æ—¥æœ¬è‡ªå‹•è»Šå¤§å­¦æ ¡,58.865,0,0,58.865,58.270,0,0,58.270,60.335,1,0,62.335,58.729,1,0,60.729,0,58.270,109.5
-7,2,Kyoto University,äº¬éƒ½å¤§å­¦,62.542,0,0,62.542,59.621,0,0,59.621,,,,DNF,,,,DNF,0,59.621,101.2
-8,32,Shibaura Institute of Technology,èŠæµ¦å·¥æ¥­å¤§å­¦,64.078,0,0,64.078,59.767,0,0,59.767,109.848,3,0,115.848,,,,DNF,0,59.767,100.32
+1,1,Kyoto Institute of Technology,‹ž“sHŒ|‘@ˆÛ‘åŠw,58.550,0,0,58.550,56.977,0,0,56.977,57.394,2,0,61.394,55.905,0,0,55.905,0,55.905,125.0
+2,7,Kogakuin University,HŠw‰@‘åŠw,61.335,1,0,63.335,59.648,0,0,59.648,58.421,0,0,58.421,56.625,0,0,56.625,0,56.625,120.14
+3,4,Chiba University,ç—t‘åŠw,59.911,0,0,59.911,57.681,0,0,57.681,61.178,1,0,63.178,85.028,4,0,93.028,0,57.681,113.24
+4,8,Meijo University,–¼é‘åŠw,59.292,0,0,59.292,58.159,0,0,58.159,,,,DNF,,,,DNF,0,58.159,110.2
+5,14,Gifu University,Šò•Œ‘åŠw,59.775,5,0,69.775,58.225,0,0,58.225,58.317,1,0,60.317,58.247,0,0,58.247,0,58.225,109.78
+6,3,Nihon Automobile College,“ú–{Ž©“®ŽÔ‘åŠwZ,58.865,0,0,58.865,58.270,0,0,58.270,60.335,1,0,62.335,58.729,1,0,60.729,0,58.270,109.5
+7,2,Kyoto University,‹ž“s‘åŠw,62.542,0,0,62.542,59.621,0,0,59.621,,,,DNF,,,,DNF,0,59.621,101.2
+8,32,Shibaura Institute of Technology,ŽÅ‰YH‹Æ‘åŠw,64.078,0,0,64.078,59.767,0,0,59.767,109.848,3,0,115.848,,,,DNF,0,59.767,100.32
 9,51,Prince of Songkhla University,Prince of Songkhla University,62.346,0,0,62.346,61.428,0,0,61.428,60.644,0,0,60.644,60.154,0,0,60.154,0,60.154,98.02
-10,E04,Nagoya University,åå¤å±‹å¤§å­¦EV,60.288,0,0,60.288,70.477,2,1,94.477,,,,DNF,,,,DNF,0,60.288,97.24
-11,15,Teikyo University,å¸äº¬å¤§å­¦,63.951,0,0,63.951,60.769,0,0,60.769,64.813,0,0,64.813,62.377,1,0,64.377,0,60.769,94.43
-12,E05,Nagoya Institute of TechnologyEV,åå¤å±‹å·¥æ¥­å¤§å­¦EV,63.034,0,0,63.034,60.794,0,0,60.794,,,,DNF,,,,DNF,0,60.794,94.29
-13,18,Kyushu Institute of Technology,ä¹å·žå·¥æ¥­å¤§å­¦,66.941,1,1,88.941,61.004,0,0,61.004,63.990,1,0,65.990,61.691,1,0,63.691,0,61.004,93.08
-14,20,Kobe University,ç¥žæˆ¸å¤§å­¦,63.421,0,0,63.421,63.132,0,0,63.132,63.557,0,0,63.557,61.049,0,0,61.049,0,61.049,92.82
-15,5,Nippon Institute of Technology,æ—¥æœ¬å·¥æ¥­å¤§å­¦,63.768,0,0,63.768,61.796,0,0,61.796,61.087,0,0,61.087,61.483,0,0,61.483,0,61.087,92.6
-16,23,Waseda University,æ—©ç¨²ç”°å¤§å­¦,63.559,0,0,63.559,59.279,1,0,61.279,,,,DNF,,,,DNF,0,61.279,91.51
-17,17,Doshisha University,åŒå¿—ç¤¾å¤§å­¦,66.164,0,0,66.164,63.746,0,0,63.746,62.060,0,0,62.060,61.634,0,1,81.634,0,62.060,87.13
-18,9,Ibaraki University,èŒ¨åŸŽå¤§å­¦,66.663,0,0,66.663,63.410,1,0,65.410,62.261,0,0,62.261,61.989,1,0,63.989,0,62.261,86.02
-19,10,Honda Technical College Kanto,ãƒ›ãƒ³ãƒ€ãƒ†ã‚¯ãƒ‹ã‚«ãƒ«ã‚«ãƒ¬ãƒƒã‚¸é–¢æ±,63.947,0,0,63.947,62.605,1,0,64.605,63.308,1,0,65.308,62.311,0,0,62.311,0,62.311,85.74
-20,6,University of Toyama,å¯Œå±±å¤§å­¦,64.130,0,0,64.130,63.016,0,0,63.016,63.876,3,0,69.876,,,,DNF,0,63.016,81.91
-21,27,Hokkaido University,åŒ—æµ·é“å¤§å­¦,69.476,0,0,69.476,64.939,0,0,64.939,63.226,0,0,63.226,84.503,2,1,108.503,0,63.226,80.78
-22,E01,Shizuoka Institute of Science and TechnologyEV,é™å²¡ç†å·¥ç§‘å¤§å­¦EV,63.802,0,0,63.802,62.757,1,0,64.757,67.794,2,0,71.794,65.016,0,0,65.016,0,63.802,77.73
-23,26,Tokyo Metropolitan University,æ±äº¬éƒ½ç«‹å¤§å­¦,62.523,2,0,66.523,82.412,1,1,104.412,66.129,1,0,68.129,63.805,0,0,63.805,0,63.805,77.72
-24,13,Sanyo-Onoda City University,å±±é™½å°é‡Žç”°å¸‚ç«‹å±±å£æ±äº¬ç†ç§‘å¤§å­¦,64.074,0,0,64.074,,,,DNF,68.619,0,0,68.619,63.111,1,0,65.111,0,64.074,76.31
-25,E07,Shizuoka UniversityEV,é™å²¡å¤§å­¦EV,70.304,0,0,70.304,67.141,0,0,67.141,64.484,0,0,64.484,64.295,0,0,64.295,0,64.295,75.17
-26,24,Toyota Technical College Nagoya,ãƒˆãƒ¨ã‚¿åå¤å±‹è‡ªå‹•è»Šå¤§å­¦æ ¡,71.839,0,0,71.839,,,,DNF,66.451,0,0,66.451,64.565,0,0,64.565,0,64.565,73.78
-27,37,The University of Kitakyushu,åŒ—ä¹å·žå¸‚ç«‹å¤§å­¦,66.462,2,0,70.462,67.929,0,0,67.929,,,,DNF,,,,DNF,0,67.929,57.41
-28,E03,The University of TokyoEV,æ±äº¬å¤§å­¦EV,97.982,0,0,97.982,,,,DNF,73.077,0,0,73.077,68.581,0,0,68.581,0,68.581,54.42
-29,16,"College of Science and Technology, Nihon University",æ—¥æœ¬å¤§å­¦ç†å·¥å­¦éƒ¨,68.785,0,0,68.785,68.567,1,0,70.567,,,,DNF,,,,DNF,0,68.785,53.5
-30,30,"College of Industrial Technology, Nihon University",æ—¥æœ¬å¤§å­¦ç”Ÿç”£å·¥å­¦éƒ¨,,,,DNF,,,,DNF,68.946,0,0,68.946,65.057,2,0,69.057,0,68.946,52.77
-31,39,Okayama University,å²¡å±±å¤§å­¦,73.659,0,0,73.659,67.030,1,0,69.030,67.415,1,0,69.415,88.532,1,1,110.532,0,69.030,52.4
-32,40,Kanazawa Institute of Technology,é‡‘æ²¢å·¥æ¥­å¤§å­¦,70.117,0,0,70.117,76.254,1,0,78.254,,,,DNF,,,,DNF,0,70.117,47.6
+10,E04,Nagoya University,–¼ŒÃ‰®‘åŠwEV,60.288,0,0,60.288,70.477,2,1,94.477,,,,DNF,,,,DNF,0,60.288,97.24
+11,15,Teikyo University,’é‹ž‘åŠw,63.951,0,0,63.951,60.769,0,0,60.769,64.813,0,0,64.813,62.377,1,0,64.377,0,60.769,94.43
+12,E05,Nagoya Institute of TechnologyEV,–¼ŒÃ‰®H‹Æ‘åŠwEV,63.034,0,0,63.034,60.794,0,0,60.794,,,,DNF,,,,DNF,0,60.794,94.29
+13,18,Kyushu Institute of Technology,‹ãBH‹Æ‘åŠw,66.941,1,1,88.941,61.004,0,0,61.004,63.990,1,0,65.990,61.691,1,0,63.691,0,61.004,93.08
+14,20,Kobe University,_ŒË‘åŠw,63.421,0,0,63.421,63.132,0,0,63.132,63.557,0,0,63.557,61.049,0,0,61.049,0,61.049,92.82
+15,5,Nippon Institute of Technology,“ú–{H‹Æ‘åŠw,63.768,0,0,63.768,61.796,0,0,61.796,61.087,0,0,61.087,61.483,0,0,61.483,0,61.087,92.6
+16,23,Waseda University,‘ˆî“c‘åŠw,63.559,0,0,63.559,59.279,1,0,61.279,,,,DNF,,,,DNF,0,61.279,91.51
+17,17,Doshisha University,“¯ŽuŽÐ‘åŠw,66.164,0,0,66.164,63.746,0,0,63.746,62.060,0,0,62.060,61.634,0,1,81.634,0,62.060,87.13
+18,9,Ibaraki University,ˆïé‘åŠw,66.663,0,0,66.663,63.410,1,0,65.410,62.261,0,0,62.261,61.989,1,0,63.989,0,62.261,86.02
+19,10,Honda Technical College Kanto,ƒzƒ“ƒ_ƒeƒNƒjƒJƒ‹ƒJƒŒƒbƒWŠÖ“Œ,63.947,0,0,63.947,62.605,1,0,64.605,63.308,1,0,65.308,62.311,0,0,62.311,0,62.311,85.74
+20,6,University of Toyama,•xŽR‘åŠw,64.130,0,0,64.130,63.016,0,0,63.016,63.876,3,0,69.876,,,,DNF,0,63.016,81.91
+21,27,Hokkaido University,–kŠC“¹‘åŠw,69.476,0,0,69.476,64.939,0,0,64.939,63.226,0,0,63.226,84.503,2,1,108.503,0,63.226,80.78
+22,E01,Shizuoka Institute of Science and TechnologyEV,Ã‰ª—H‰È‘åŠwEV,63.802,0,0,63.802,62.757,1,0,64.757,67.794,2,0,71.794,65.016,0,0,65.016,0,63.802,77.73
+23,26,Tokyo Metropolitan University,“Œ‹ž“s—§‘åŠw,62.523,2,0,66.523,82.412,1,1,104.412,66.129,1,0,68.129,63.805,0,0,63.805,0,63.805,77.72
+24,13,Sanyo-Onoda City University,ŽR—z¬–ì“cŽs—§ŽRŒû“Œ‹ž—‰È‘åŠw,64.074,0,0,64.074,,,,DNF,68.619,0,0,68.619,63.111,1,0,65.111,0,64.074,76.31
+25,E07,Shizuoka UniversityEV,Ã‰ª‘åŠwEV,70.304,0,0,70.304,67.141,0,0,67.141,64.484,0,0,64.484,64.295,0,0,64.295,0,64.295,75.17
+26,24,Toyota Technical College Nagoya,ƒgƒˆƒ^–¼ŒÃ‰®Ž©“®ŽÔ‘åŠwZ,71.839,0,0,71.839,,,,DNF,66.451,0,0,66.451,64.565,0,0,64.565,0,64.565,73.78
+27,37,The University of Kitakyushu,–k‹ãBŽs—§‘åŠw,66.462,2,0,70.462,67.929,0,0,67.929,,,,DNF,,,,DNF,0,67.929,57.41
+28,E03,The University of TokyoEV,“Œ‹ž‘åŠwEV,97.982,0,0,97.982,,,,DNF,73.077,0,0,73.077,68.581,0,0,68.581,0,68.581,54.42
+29,16,"College of Science and Technology, Nihon University",“ú–{‘åŠw—HŠw•”,68.785,0,0,68.785,68.567,1,0,70.567,,,,DNF,,,,DNF,0,68.785,53.5
+30,30,"College of Industrial Technology, Nihon University",“ú–{‘åŠw¶ŽYHŠw•”,,,,DNF,,,,DNF,68.946,0,0,68.946,65.057,2,0,69.057,0,68.946,52.77
+31,39,Okayama University,‰ªŽR‘åŠw,73.659,0,0,73.659,67.030,1,0,69.030,67.415,1,0,69.415,88.532,1,1,110.532,0,69.030,52.4
+32,40,Kanazawa Institute of Technology,‹à‘òH‹Æ‘åŠw,70.117,0,0,70.117,76.254,1,0,78.254,,,,DNF,,,,DNF,0,70.117,47.6
 33,56,Universitas Sebelas Maret,Universitas Sebelas Maret,74.032,0,0,74.032,,,,DNF,75.466,0,0,75.466,,,,DNF,0,74.032,31.5
-34,33,Tokyo City University,æ±äº¬éƒ½å¸‚å¤§å­¦,77.291,0,0,77.291,72.015,3,0,78.015,,,,DNF,,,,DNF,0,77.291,19.34
-35,12,Tokyo University of Agriculture and Technology,æ±äº¬è¾²å·¥å¤§å­¦,83.835,0,0,83.835,80.570,0,0,80.570,,,,DNF,,,,DNF,0,80.570,8.1
-36,28,Honda Technical College Kansai,ãƒ›ãƒ³ãƒ€ãƒ†ã‚¯ãƒ‹ã‚«ãƒ«ã‚«ãƒ¬ãƒƒã‚¸é–¢è¥¿,222.467,0,0,222.467,,,,DNF,,,,DNF,,,,DNF,0,222.467,6.5
-36,E09,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYOTOEV,æ—¥ç”£äº¬éƒ½è‡ªå‹•è»Šå¤§å­¦æ ¡EV,,,,DNF,,,,DNF,103.135,11,0,125.135,,,,DNF,0,125.135,6.5
-38,11,Saitama University,åŸ¼çŽ‰å¤§å­¦,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
-38,22,Osaka University,å¤§é˜ªå¤§å­¦,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
-38,38,Kindai University,è¿‘ç•¿å¤§å­¦,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
-38,E10,Toyohashi University of TechnologyEV,è±Šæ©‹æŠ€è¡“ç§‘å­¦å¤§å­¦EV,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
-,19,Kurume Institute of Technology,ä¹…ç•™ç±³å·¥æ¥­å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,21,Niigata University,æ–°æ½Ÿå¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,25,OSAKA INSTITUTE OF TECHNOLOGY,å¤§é˜ªå·¥æ¥­å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,29,Tokyo Univercity of Science,æ±äº¬ç†ç§‘å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,34,Ritsumeikan university,ç«‹å‘½é¤¨å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,35,Fukui Univercity od Tecnology,ç¦äº•å·¥æ¥­å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,36,Gunma University,ç¾¤é¦¬å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,41,Tottori University,é³¥å–å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,42,Nishinippon Institute of Technology,è¥¿æ—¥æœ¬å·¥æ¥­å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,43,Hiroshima Institute of Technology,åºƒå³¶å·¥æ¥­å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,44,Meisei University,æ˜Žæ˜Ÿå¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,47,Osaka Metropolitan University,å¤§é˜ªå…¬ç«‹å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,48,sojo university,å´‡åŸŽå¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,49,Tohoku Gakuin University,æ±åŒ—å­¦é™¢å¤§å­¦,,,,,,,,,,,,,,,,,0,,
-,50,Kanazawa University,é‡‘æ²¢å¤§å­¦,,,,,,,,,,,,,,,,,0,,
+34,33,Tokyo City University,“Œ‹ž“sŽs‘åŠw,77.291,0,0,77.291,72.015,3,0,78.015,,,,DNF,,,,DNF,0,77.291,19.34
+35,12,Tokyo University of Agriculture and Technology,“Œ‹ž”_H‘åŠw,83.835,0,0,83.835,80.570,0,0,80.570,,,,DNF,,,,DNF,0,80.570,8.1
+36,28,Honda Technical College Kansai,ƒzƒ“ƒ_ƒeƒNƒjƒJƒ‹ƒJƒŒƒbƒWŠÖ¼,222.467,0,0,222.467,,,,DNF,,,,DNF,,,,DNF,0,222.467,6.5
+36,E09,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYOTOEV,“úŽY‹ž“sŽ©“®ŽÔ‘åŠwZEV,,,,DNF,,,,DNF,103.135,11,0,125.135,,,,DNF,0,125.135,6.5
+38,11,Saitama University,é‹Ê‘åŠw,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
+38,22,Osaka University,‘åã‘åŠw,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
+38,38,Kindai University,‹ß‹E‘åŠw,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
+38,E10,Toyohashi University of TechnologyEV,–L‹´‹Zp‰ÈŠw‘åŠwEV,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0.0
+,19,Kurume Institute of Technology,‹v—¯•ÄH‹Æ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,21,Niigata University,VŠƒ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,25,OSAKA INSTITUTE OF TECHNOLOGY,‘åãH‹Æ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,29,Tokyo Univercity of Science,“Œ‹ž—‰È‘åŠw,,,,,,,,,,,,,,,,,0,,
+,34,Ritsumeikan university,—§–½ŠÙ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,35,Fukui Univercity od Tecnology,•ŸˆäH‹Æ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,36,Gunma University,ŒQ”n‘åŠw,,,,,,,,,,,,,,,,,0,,
+,41,Tottori University,’¹Žæ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,42,Nishinippon Institute of Technology,¼“ú–{H‹Æ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,43,Hiroshima Institute of Technology,L“‡H‹Æ‘åŠw,,,,,,,,,,,,,,,,,0,,
+,44,Meisei University,–¾¯‘åŠw,,,,,,,,,,,,,,,,,0,,
+,47,Osaka Metropolitan University,‘åãŒö—§‘åŠw,,,,,,,,,,,,,,,,,0,,
+,48,sojo university,’é‘åŠw,,,,,,,,,,,,,,,,,0,,
+,49,Tohoku Gakuin University,“Œ–kŠw‰@‘åŠw,,,,,,,,,,,,,,,,,0,,
+,50,Kanazawa University,‹à‘ò‘åŠw,,,,,,,,,,,,,,,,,0,,
 ,52,Khulna University of Engineering & Technology,Khulna University of Engineering & Technology,,,,,,,,,,,,,,,,,0,,
-,E02,University of YamanashiEV,å±±æ¢¨å¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
-,E08,Kanagawa Institute of Technology,ç¥žå¥ˆå·å·¥ç§‘å¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
-,E11,Aichi Institute of TechnologyEV,æ„›çŸ¥å·¥æ¥­å¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
-,E12,Tohoku University,æ±åŒ—å¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
-,E13,Institute of TechnologistsEV,ã‚‚ã®ã¤ãã‚Šå¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
-,E14,Sophia University/Aoyama Gakuin University,ä¸Šæ™ºå¤§å­¦/é’å±±å­¦é™¢å¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
-,E15,Tokyo University of TechnologyEV,æ±äº¬å·¥ç§‘å¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
-,E16,Shizuoka Professional College of Automobile TechnologyEV,é™å²¡å·¥ç§‘è‡ªå‹•è»Šå¤§å­¦æ ¡EV,,,,,,,,,,,,,,,,,0,,
-,E19,Yokohama National University,æ¨ªæµœå›½ç«‹å¤§å­¦EV,,,,,,,,,,,,,,,,,0,,
+,E02,University of YamanashiEV,ŽR—œ‘åŠwEV,,,,,,,,,,,,,,,,,0,,
+,E08,Kanagawa Institute of Technology,_“ÞìH‰È‘åŠwEV,,,,,,,,,,,,,,,,,0,,
+,E11,Aichi Institute of TechnologyEV,ˆ¤’mH‹Æ‘åŠwEV,,,,,,,,,,,,,,,,,0,,
+,E12,Tohoku University,“Œ–k‘åŠwEV,,,,,,,,,,,,,,,,,0,,
+,E13,Institute of TechnologistsEV,‚à‚Ì‚Â‚­‚è‘åŠwEV,,,,,,,,,,,,,,,,,0,,
+,E14,Sophia University/Aoyama Gakuin University,ã’q‘åŠw/ÂŽRŠw‰@‘åŠwEV,,,,,,,,,,,,,,,,,0,,
+,E15,Tokyo University of TechnologyEV,“Œ‹žH‰È‘åŠwEV,,,,,,,,,,,,,,,,,0,,
+,E16,Shizuoka Professional College of Automobile TechnologyEV,Ã‰ªH‰ÈŽ©“®ŽÔ‘åŠwZEV,,,,,,,,,,,,,,,,,0,,
+,E19,Yokohama National University,‰¡•l‘—§‘åŠwEV,,,,,,,,,,,,,,,,,0,,
 ,E21,INSTITUT TEKNOLOGI SEPULUH NOPEMBEREV,INSTITUT TEKNOLOGI SEPULUH NOPEMBEREV,,,,,,,,,,,,,,,,,0,,
 ,E22,Tongji University EV,Tongji University EV,,,,,,,,,,,,,,,,,0,,
 ,E26,National Cheng Kung UniversityEV,National Cheng Kung UniversityEV,,,,,,,,,,,,,,,,,0,,

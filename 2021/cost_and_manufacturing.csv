@@ -1,62 +1,62 @@
 Place,Car No.,Team,Team,Adjusted Cost: $(Include Penalty)(Include EV Incentive),Price Score,Discussion Score(Include Penalty),ScenarioScore,Total Score
-1,9,大阪大学,Osaka University,19382,24.87,40.00,17.00,81.87
-2,2,神戸大学,Kobe University,17901,28.49,38.31,8.00,74.80
-3,16,同志社大学,Doshisha University,15105,37.25,20.28,15.00,72.53
-4,11,京都工芸繊維大学,Kyoto Institute of Technology,24816,15.31,30.42,19.00,64.73
-5,30,新潟大学,Niigata University,18638,26.62,16.90,15.00,58.52
-6,12,京都大学,Kyoto University,25693,14.14,27.61,13.00,54.75
-7,33,東京農工大学,Tokyo University of Agriculture and Technology,14398,40.00,0.00,11.00,51.00
-8,E01,名古屋大学EV,Nagoya UniversityEV,40450,2.12,33.24,15.00,50.36
-9,41,東京大学,The University of Tokyo,16795,31.60,1.69,14.00,47.29
-10,19,千葉大学,Chiba University,17046,30.86,0.00,10.00,40.86
-11,34,九州工業大学,Kyushu Institute of Technology,19681,24.21,3.94,12.00,40.15
-12,5,日本自動車大学校,Nihon Automobile College,20331,22.84,2.82,13.00,38.66
-13,E02,豊橋技術科学大学EV,Toyohashi University of TechnologyEV,27596,11.87,11.83,12.00,35.70
-14,18,福井大学,University of Fukui,21506,20.56,0.00,13.00,33.56
-15,21,山梨大学,University of Yamanashi,24732,15.42,0.00,18.00,33.42
-16,17,静岡大学,Shizuoka University,22340,19.09,0.00,13.00,32.09
-17,27,岐阜大学,Gifu University,24479,15.78,0.00,16.00,31.78
-18,3,茨城大学,Ibaraki University,21031,21.45,0.00,9.00,30.45
-19,1,名古屋工業大学,Nagoya Institute of Technology,27263,12.24,0.00,18.00,30.24
-20,28,静岡工科自動車大学校,Shizuoka Professional College of Automobile Technology,19860,23.82,0.00,6.00,29.82
-21,22,名城大学,Meijo University,24494,15.75,0.00,14.00,29.75
-22,20,金沢大学,Kanazawa University,24398,15.89,0.00,13.00,28.89
-23,23,東京都市大学,Tokyo City University,26510,13.13,0.00,11.00,24.13
-24,48,九州大学,Kyushu University,24975,15.09,0.00,9.00,24.09
-25,38,富山大学,University of Toyama,24569,15.65,0.00,8.00,23.65
-26,E05,東北大学EV,Tohoku UniversityEV,29932,9.47,0.00,14.00,23.47
-27,44,大阪工業大学,Osaka Institute of Technology,32815,6.99,0.00,16.00,22.99
-28,15,日本工業大学,Nippon Institute of Technology,26270,13.42,0.00,9.00,22.42
-29,57,ホンダテクニカルカレッジ関西,Honda Technical College Kansai,28570,10.82,0.00,11.00,21.82
-30,31,山陽小野田市立山口東京理科大学,Sanyo-Onoda City University,29660,9.73,0.00,12.00,21.73
-31,49,大阪府立大学,Osaka Prefecture University,28826,10.56,0.00,9.00,19.56
-32,43,トヨタ名古屋自動車大学校,Toyota Technical College Nagoya,31293,8.24,0.00,11.00,19.24
-33,36,広島工業大学,Hiroshima Institute of Technology,29360,10.03,0.00,9.00,19.03
-34,35,日本大学理工学部,Nihon University College of science of technology,31112,8.40,0.00,10.00,18.40
-35,37,帝京大学,Teikyo University,31361,8.18,0.00,10.00,18.18
-36,E04,トヨタ東京自動車大学校EV,TOYOTA TECHNICAL COLLEGE TOKYOEV,32464,7.27,0.00,10.00,17.27
-37,39,群馬大学,gunma university,31372,8.18,0.00,8.00,16.18
-38,25,工学院大学,Kogakuin University,33958,6.12,0.00,9.00,15.12
-39,8,埼玉大学,Saitama University,32937,6.89,0.00,8.00,14.89
-40,61,福井工業大学,Fukui University of Technology,37672,3.66,0.00,10.00,13.66
-41,E03,ものつくり大学EV,Institute of TechnologistsEV,39495,2.62,0.00,11.00,13.62
-42,29,鳥取大学,Tottori University,36440,4.42,0.00,8.00,12.42
-43,E07,神奈川大学EV,KanagawaUniversityEV,42188,1.25,0.00,11.00,12.25
-44,E09,神奈川工科大学EV,Kanagawa Institute of TechnologyEV,45000,0.00,0.00,12.00,12.00
-45,E10,日産京都自動車大学校EV,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYOTOEV,32281,7.41,0.00,4.00,11.41
-46,E11,静岡理工科大学EV,Shizuoka Institute of Science and TechnologyEV,45000,0.00,0.00,11.00,11.00
-47,42,久留米工業大学,Kurume Institute of Technology,38906,2.95,0.00,8.00,10.95
-48,E08,一関工業高等専門学校/岩手大学EV,"National Institute of Technology, Ichinoseki College/Iwate UniversityEV",45000,0.00,0.00,10.00,10.00
-49,53,明星大学,Meisei University,38059,3.43,0.00,6.00,9.43
-50,58,北海道大学,Hokkaido University,38676,3.08,0.00,6.00,9.08
-51,13,愛知工業大学,Aichi Institute of Technology,-,0.00,0.00,9.00,9.00
-52,6,立命館大学,Ritsumeikan University,-,0.00,0.00,8.00,8.00
-52,46,摂南大学,SETSUNAN UNIVERSITY,-,0.00,0.00,8.00,8.00
-54,59,専門学校麻生工科自動車大学校,ASO COLLEGE OF AUTOMOTIVE ENGINEERING AND TECHNOLOGY,-,0.00,0.00,1.00,1.00
-55,7,上智大学,Sophia University,-,0.00,0.00,0.00,0.00
-55,10,早稲田大学,Waseda University,-,0.00,0.00,0.00,0.00
-55,14,東京理科大学,Tokyo University of Science,-,0.00,0.00,0.00,0.00
-55,24,大阪産業大学,Osaka Sangyo University,-,0.00,0.00,0.00,0.00
-55,32,金沢工業大学,Kanazawa Institute of Technology,-,0.00,0.00,0.00,0.00
--,45,崇城大学,Sojo University,-,0.00,0.00,0.00,0.00
--,E12,東京工科大学EV,Tokyo University of TechnologyEV,-,0.00,0.00,0.00,0.00
+1,9,����w,Osaka University,19382,24.87,40.00,17.00,81.87
+2,2,�_�ˑ�w,Kobe University,17901,28.49,38.31,8.00,74.80
+3,16,���u�Б�w,Doshisha University,15105,37.25,20.28,15.00,72.53
+4,11,���s�H�|�@�ۑ�w,Kyoto Institute of Technology,24816,15.31,30.42,19.00,64.73
+5,30,�V����w,Niigata University,18638,26.62,16.90,15.00,58.52
+6,12,���s��w,Kyoto University,25693,14.14,27.61,13.00,54.75
+7,33,�����_�H��w,Tokyo University of Agriculture and Technology,14398,40.00,0.00,11.00,51.00
+8,E01,���É���wEV,Nagoya UniversityEV,40450,2.12,33.24,15.00,50.36
+9,41,������w,The University of Tokyo,16795,31.60,1.69,14.00,47.29
+10,19,��t��w,Chiba University,17046,30.86,0.00,10.00,40.86
+11,34,��B�H�Ƒ�w,Kyushu Institute of Technology,19681,24.21,3.94,12.00,40.15
+12,5,���{�����ԑ�w�Z,Nihon Automobile College,20331,22.84,2.82,13.00,38.66
+13,E02,�L���Z�p�Ȋw��wEV,Toyohashi University of TechnologyEV,27596,11.87,11.83,12.00,35.70
+14,18,�����w,University of Fukui,21506,20.56,0.00,13.00,33.56
+15,21,�R����w,University of Yamanashi,24732,15.42,0.00,18.00,33.42
+16,17,�É���w,Shizuoka University,22340,19.09,0.00,13.00,32.09
+17,27,�򕌑�w,Gifu University,24479,15.78,0.00,16.00,31.78
+18,3,����w,Ibaraki University,21031,21.45,0.00,9.00,30.45
+19,1,���É��H�Ƒ�w,Nagoya Institute of Technology,27263,12.24,0.00,18.00,30.24
+20,28,�É��H�Ȏ����ԑ�w�Z,Shizuoka Professional College of Automobile Technology,19860,23.82,0.00,6.00,29.82
+21,22,�����w,Meijo University,24494,15.75,0.00,14.00,29.75
+22,20,�����w,Kanazawa University,24398,15.89,0.00,13.00,28.89
+23,23,�����s�s��w,Tokyo City University,26510,13.13,0.00,11.00,24.13
+24,48,��B��w,Kyushu University,24975,15.09,0.00,9.00,24.09
+25,38,�x�R��w,University of Toyama,24569,15.65,0.00,8.00,23.65
+26,E05,���k��wEV,Tohoku UniversityEV,29932,9.47,0.00,14.00,23.47
+27,44,���H�Ƒ�w,Osaka Institute of Technology,32815,6.99,0.00,16.00,22.99
+28,15,���{�H�Ƒ�w,Nippon Institute of Technology,26270,13.42,0.00,9.00,22.42
+29,57,�z���_�e�N�j�J���J���b�W�֐�,Honda Technical College Kansai,28570,10.82,0.00,11.00,21.82
+30,31,�R�z����c�s���R���������ȑ�w,Sanyo-Onoda City University,29660,9.73,0.00,12.00,21.73
+31,49,���{����w,Osaka Prefecture University,28826,10.56,0.00,9.00,19.56
+32,43,�g���^���É������ԑ�w�Z,Toyota Technical College Nagoya,31293,8.24,0.00,11.00,19.24
+33,36,�L���H�Ƒ�w,Hiroshima Institute of Technology,29360,10.03,0.00,9.00,19.03
+34,35,���{��w���H�w��,Nihon University College of science of technology,31112,8.40,0.00,10.00,18.40
+35,37,�鋞��w,Teikyo University,31361,8.18,0.00,10.00,18.18
+36,E04,�g���^���������ԑ�w�ZEV,TOYOTA TECHNICAL COLLEGE TOKYOEV,32464,7.27,0.00,10.00,17.27
+37,39,�Q�n��w,gunma university,31372,8.18,0.00,8.00,16.18
+38,25,�H�w�@��w,Kogakuin University,33958,6.12,0.00,9.00,15.12
+39,8,��ʑ�w,Saitama University,32937,6.89,0.00,8.00,14.89
+40,61,����H�Ƒ�w,Fukui University of Technology,37672,3.66,0.00,10.00,13.66
+41,E03,���̂����wEV,Institute of TechnologistsEV,39495,2.62,0.00,11.00,13.62
+42,29,�����w,Tottori University,36440,4.42,0.00,8.00,12.42
+43,E07,�_�ސ��wEV,KanagawaUniversityEV,42188,1.25,0.00,11.00,12.25
+44,E09,�_�ސ�H�ȑ�wEV,Kanagawa Institute of TechnologyEV,45000,0.00,0.00,12.00,12.00
+45,E10,���Y���s�����ԑ�w�ZEV,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYOTOEV,32281,7.41,0.00,4.00,11.41
+46,E11,�É����H�ȑ�wEV,Shizuoka Institute of Science and TechnologyEV,45000,0.00,0.00,11.00,11.00
+47,42,�v���čH�Ƒ�w,Kurume Institute of Technology,38906,2.95,0.00,8.00,10.95
+48,E08,��֍H�ƍ������w�Z/����wEV,"National Institute of Technology, Ichinoseki College/Iwate UniversityEV",45000,0.00,0.00,10.00,10.00
+49,53,������w,Meisei University,38059,3.43,0.00,6.00,9.43
+50,58,�k�C����w,Hokkaido University,38676,3.08,0.00,6.00,9.08
+51,13,���m�H�Ƒ�w,Aichi Institute of Technology,-,0.00,0.00,9.00,9.00
+52,6,�����ّ�w,Ritsumeikan University,-,0.00,0.00,8.00,8.00
+52,46,�ۓ��w,SETSUNAN UNIVERSITY,-,0.00,0.00,8.00,8.00
+54,59,���w�Z�����H�Ȏ����ԑ�w�Z,ASO COLLEGE OF AUTOMOTIVE ENGINEERING AND TECHNOLOGY,-,0.00,0.00,1.00,1.00
+55,7,��q��w,Sophia University,-,0.00,0.00,0.00,0.00
+55,10,����c��w,Waseda University,-,0.00,0.00,0.00,0.00
+55,14,�������ȑ�w,Tokyo University of Science,-,0.00,0.00,0.00,0.00
+55,24,���Y�Ƒ�w,Osaka Sangyo University,-,0.00,0.00,0.00,0.00
+55,32,����H�Ƒ�w,Kanazawa Institute of Technology,-,0.00,0.00,0.00,0.00
+-,45,�����w,Sojo University,-,0.00,0.00,0.00,0.00
+-,E12,�����H�ȑ�wEV,Tokyo University of TechnologyEV,-,0.00,0.00,0.00,0.00

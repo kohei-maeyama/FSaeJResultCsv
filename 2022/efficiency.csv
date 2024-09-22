@@ -1,64 +1,64 @@
 Place,CarNo.,Team,Team.1,Ave. Adj.Laptime,Laps,Fuel Used,Adj. CO2,kgCO2/100Km,Ave. Adj.CO2 /Lap,Fuel Eff.Factor,Fuel Eff.Score
-1,E06,Shizuoka Institute of Science and TechnologyEV,静岡理工科大学EV,89.845,20.0,2.92,1.9,10.17,0.095,0.718,100.0
-2,E08,Toyota Technical College TokyoEV,トヨタ東京自動車大学校EV,81.004,20.0,5.87,3.81,20.44,0.19,0.396,84.23
-3,28,Nippon Institute of Technology,日本工業大学,69.355,20.0,1.97,4.55,24.36,0.227,0.388,83.52
-4,48,Honda Technical College Kanto,ホンダテクニカルカレッジ関東,71.563,20.0,2.07,4.78,25.59,0.239,0.358,80.5
-5,32,Kurume Institute of Technology,久留米工業大学,81.122,20.0,1.98,4.57,24.48,0.228,0.33,77.21
-6,17,Saitama University,埼玉大学,74.693,20.0,2.71,6.26,33.51,0.313,0.262,66.23
-7,6,Kyoto Institute of Technology,京都工芸繊維大学,64.525,20.0,3.27,7.55,40.43,0.377,0.251,63.97
-8,26,Kogakuin University,工学院大学,74.361,20.0,2.9,6.69,35.86,0.334,0.246,62.75
-9,14,Ibaraki University,茨城大学,72.04,20.0,3.05,7.04,37.71,0.352,0.241,61.68
-10,3,Kyoto University,京都大学,66.991,20.0,3.48,8.03,43.03,0.401,0.227,58.16
-11,10,Meijo University,名城大学,67.318,20.0,3.47,8.01,42.91,0.4,0.227,58.03
-12,24,Nihon University College of science of technology,日本大学理工学部,77.241,20.0,3.12,7.2,38.58,0.36,0.22,56.09
-13,25,Teikyo University,帝京大学,78.55,20.0,3.14,7.25,38.82,0.362,0.215,54.6
-14,30,University of Toyama,富山大学,69.381,20.0,3.6,8.31,44.51,0.415,0.212,53.78
-15,15,Doshisha University,同志社大学,87.788,16.0,2.33,5.38,36.01,0.336,0.207,52.23
-16,13,Nihon Automobile College,日本自動車大学校,69.361,20.0,3.77,8.7,46.62,0.435,0.203,50.7
-17,11,Tokyo University of Agriculture and Technology,東京農工大学,78.962,20.0,3.58,8.26,44.27,0.413,0.187,45.13
-18,12,University of Yamanashi,山梨大学,89.025,15.0,2.43,5.61,40.06,0.374,0.184,43.62
-19,5,Chiba University,千葉大学,70.386,20.0,4.42,10.21,54.65,0.51,0.17,37.66
-20,8,Niigata University,新潟大学,85.947,20.0,4.25,9.81,52.55,0.49,0.145,23.42
-21,1,Kobe University,神戸大学,84.605,16.0,4.76,10.99,73.57,0.687,,0.0
-21,9,The University of Tokyo,東京大学,106.292,20.0,2.63,6.07,32.52,0.303,,0.0
-21,16,Kyushu Institute of Technology,九州工業大学,96.157,20.0,,,,,,0.0
-21,23,Sanyo-Onoda City University,山陽小野田市立山口東京理科大学,79.058,20.0,,,,,,0.0
-21,29,Toyota Technical College Nagoya,トヨタ名古屋自動車大学校,107.021,20.0,2.64,6.09,32.64,0.304,,0.0
-21,51,Tokyo Metropolitan University,東京都立大学,99.829,20.0,4.27,9.86,52.8,0.493,,0.0
-,2,OSAKA UNIVERSITY,大阪大学,,,,,,,,
-,4,Nagoya Institute of Technology,名古屋工業大学,,,,,,,,
-,7,Gifu University,岐阜大学,,,,,,,,
-,18,University of Fukui,福井大学,,,,,,,,
-,19,Honda Technical College Kansai,ホンダテクニカルカレッジ関西,,,,,,,,
-,20,Gunma University,群馬大学,,,,,,,,
-,21,Hokkaido University,北海道大学,,,,,,,,
-,27,Tokyo City University,東京都市大学,,,,,,,,
-,31,Ritsumeikan university,立命館大学,,,,,,,,
-,33,Osaka Institute of Technology,大阪工業大学,,,,,,,,
-,34,Hiroshima Institute Technology,広島工業大学,,,,,,,,
-,35,Meisei University,明星大学,,,,,,,,
-,36,Kyushu University,九州大学,,,,,,,,
-,38,Waseda University,早稲田大学,,,,,,,,
-,39,Tokyo University of Science,東京理科大学,,,,,,,,
-,41,Fukui University of Technology,福井工業大学,,,,,,,,
-,42,Tottori University,鳥取大学,,,,,,,,
-,43,Kanazawa Institute of Technology,金沢工業大学,,,,,,,,
-,46,"College of Industrial Technology, Nihon University",日本大学生産工学部,,,,,,,,
-,47,Kindai University,近畿大学,,,,,,,,
-,49,Okayama University,岡山大学,,,,,,,,
-,50,Shibaura Institute of Technology,芝浦工業大学,,,,,,,,
-,52,The University of Kitakyushu,北九州市立大学,,,,,,,,
-,53,Tokai University,東海大学,,,,,,,,
-,54,KOKUSHIKANDAIGAKU,国士舘大学,,,,,,,,
-,55,NISHINIPPON INSTITUTE OF TECHNOLOGY,西日本工業大学,,,,,,,,
-,E01,Nagoya UniversityEV,名古屋大学EV,,,,,,,,
-,E02,Toyohashi University of Technology,豊橋技術科学大学EV,,,,,,,,
-,E03,Tohoku UniversityEV,東北大学EV,,,,,,,,
-,E04,Shizuoka UniversityEV,静岡大学EV,,,,,,,,
-,E05,Kanagawa University,神奈川大学EV,,,,,,,,
-,E07,Institute of TechnologistsEV,ものつくり大学EV,,,,,,,,
-,E09,Kanagawa Institute of TechnologyEV,神奈川工科大学EV,,,,,,,,
-,E10,Aichi Institute of TechnologyEV,愛知工業大学EV,,,,,,,,
-,E11,NISSAN AUTOMOBILE TECHNICAL COLLEGE KY,日産京都自動車大学校EV,,,,,,,,
-,E12,Sophia University/Aoyama Gakuin UniversityEV,上智大学/青山学院大学EV,,,,,,,,
-,E13,Tokyo University of TechnologyEV,東京工科大学EV,,,,,,,,
+1,E06,Shizuoka Institute of Science and TechnologyEV,�É����H�ȑ�wEV,89.845,20.0,2.92,1.9,10.17,0.095,0.718,100.0
+2,E08,Toyota Technical College TokyoEV,�g���^���������ԑ�w�ZEV,81.004,20.0,5.87,3.81,20.44,0.19,0.396,84.23
+3,28,Nippon Institute of Technology,���{�H�Ƒ�w,69.355,20.0,1.97,4.55,24.36,0.227,0.388,83.52
+4,48,Honda Technical College Kanto,�z���_�e�N�j�J���J���b�W�֓�,71.563,20.0,2.07,4.78,25.59,0.239,0.358,80.5
+5,32,Kurume Institute of Technology,�v���čH�Ƒ�w,81.122,20.0,1.98,4.57,24.48,0.228,0.33,77.21
+6,17,Saitama University,��ʑ�w,74.693,20.0,2.71,6.26,33.51,0.313,0.262,66.23
+7,6,Kyoto Institute of Technology,���s�H�|�@�ۑ�w,64.525,20.0,3.27,7.55,40.43,0.377,0.251,63.97
+8,26,Kogakuin University,�H�w�@��w,74.361,20.0,2.9,6.69,35.86,0.334,0.246,62.75
+9,14,Ibaraki University,����w,72.04,20.0,3.05,7.04,37.71,0.352,0.241,61.68
+10,3,Kyoto University,���s��w,66.991,20.0,3.48,8.03,43.03,0.401,0.227,58.16
+11,10,Meijo University,�����w,67.318,20.0,3.47,8.01,42.91,0.4,0.227,58.03
+12,24,Nihon University College of science of technology,���{��w���H�w��,77.241,20.0,3.12,7.2,38.58,0.36,0.22,56.09
+13,25,Teikyo University,�鋞��w,78.55,20.0,3.14,7.25,38.82,0.362,0.215,54.6
+14,30,University of Toyama,�x�R��w,69.381,20.0,3.6,8.31,44.51,0.415,0.212,53.78
+15,15,Doshisha University,���u�Б�w,87.788,16.0,2.33,5.38,36.01,0.336,0.207,52.23
+16,13,Nihon Automobile College,���{�����ԑ�w�Z,69.361,20.0,3.77,8.7,46.62,0.435,0.203,50.7
+17,11,Tokyo University of Agriculture and Technology,�����_�H��w,78.962,20.0,3.58,8.26,44.27,0.413,0.187,45.13
+18,12,University of Yamanashi,�R����w,89.025,15.0,2.43,5.61,40.06,0.374,0.184,43.62
+19,5,Chiba University,��t��w,70.386,20.0,4.42,10.21,54.65,0.51,0.17,37.66
+20,8,Niigata University,�V����w,85.947,20.0,4.25,9.81,52.55,0.49,0.145,23.42
+21,1,Kobe University,�_�ˑ�w,84.605,16.0,4.76,10.99,73.57,0.687,,0.0
+21,9,The University of Tokyo,������w,106.292,20.0,2.63,6.07,32.52,0.303,,0.0
+21,16,Kyushu Institute of Technology,��B�H�Ƒ�w,96.157,20.0,,,,,,0.0
+21,23,Sanyo-Onoda City University,�R�z����c�s���R���������ȑ�w,79.058,20.0,,,,,,0.0
+21,29,Toyota Technical College Nagoya,�g���^���É������ԑ�w�Z,107.021,20.0,2.64,6.09,32.64,0.304,,0.0
+21,51,Tokyo Metropolitan University,�����s����w,99.829,20.0,4.27,9.86,52.8,0.493,,0.0
+,2,OSAKA UNIVERSITY,����w,,,,,,,,
+,4,Nagoya Institute of Technology,���É��H�Ƒ�w,,,,,,,,
+,7,Gifu University,�򕌑�w,,,,,,,,
+,18,University of Fukui,�����w,,,,,,,,
+,19,Honda Technical College Kansai,�z���_�e�N�j�J���J���b�W�֐�,,,,,,,,
+,20,Gunma University,�Q�n��w,,,,,,,,
+,21,Hokkaido University,�k�C����w,,,,,,,,
+,27,Tokyo City University,�����s�s��w,,,,,,,,
+,31,Ritsumeikan university,�����ّ�w,,,,,,,,
+,33,Osaka Institute of Technology,���H�Ƒ�w,,,,,,,,
+,34,Hiroshima Institute Technology,�L���H�Ƒ�w,,,,,,,,
+,35,Meisei University,������w,,,,,,,,
+,36,Kyushu University,��B��w,,,,,,,,
+,38,Waseda University,����c��w,,,,,,,,
+,39,Tokyo University of Science,�������ȑ�w,,,,,,,,
+,41,Fukui University of Technology,����H�Ƒ�w,,,,,,,,
+,42,Tottori University,�����w,,,,,,,,
+,43,Kanazawa Institute of Technology,����H�Ƒ�w,,,,,,,,
+,46,"College of Industrial Technology, Nihon University",���{��w���Y�H�w��,,,,,,,,
+,47,Kindai University,�ߋE��w,,,,,,,,
+,49,Okayama University,���R��w,,,,,,,,
+,50,Shibaura Institute of Technology,�ŉY�H�Ƒ�w,,,,,,,,
+,52,The University of Kitakyushu,�k��B�s����w,,,,,,,,
+,53,Tokai University,���C��w,,,,,,,,
+,54,KOKUSHIKANDAIGAKU,���m�ڑ�w,,,,,,,,
+,55,NISHINIPPON INSTITUTE OF TECHNOLOGY,�����{�H�Ƒ�w,,,,,,,,
+,E01,Nagoya UniversityEV,���É���wEV,,,,,,,,
+,E02,Toyohashi University of Technology,�L���Z�p�Ȋw��wEV,,,,,,,,
+,E03,Tohoku UniversityEV,���k��wEV,,,,,,,,
+,E04,Shizuoka UniversityEV,�É���wEV,,,,,,,,
+,E05,Kanagawa University,�_�ސ��wEV,,,,,,,,
+,E07,Institute of TechnologistsEV,���̂����wEV,,,,,,,,
+,E09,Kanagawa Institute of TechnologyEV,�_�ސ�H�ȑ�wEV,,,,,,,,
+,E10,Aichi Institute of TechnologyEV,���m�H�Ƒ�wEV,,,,,,,,
+,E11,NISSAN AUTOMOBILE TECHNICAL COLLEGE KY,���Y���s�����ԑ�w�ZEV,,,,,,,,
+,E12,Sophia University/Aoyama Gakuin UniversityEV,��q��w/�R�w�@��wEV,,,,,,,,
+,E13,Tokyo University of TechnologyEV,�����H�ȑ�wEV,,,,,,,,

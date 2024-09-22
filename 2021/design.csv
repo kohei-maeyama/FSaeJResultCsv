@@ -1,62 +1,62 @@
 Place,Car No.,Team,Team.1,Score
-1,1,名古屋工業大学,Nagoya Institute of Technology,150
-2,12,京都大学,Kyoto University,145
-3,19,千葉大学,Chiba University,129
-3,E01,名古屋大学EV,Nagoya UniversityEV,129
-5,9,大阪大学,Osaka University,121
-6,22,名城大学,Meijo University,120
-7,11,京都工芸繊維大学,Kyoto Institute of Technology,113
-8,3,茨城大学,Ibaraki University,112
-9,2,神戸大学,Kobe University,110
-9,6,立命館大学,Ritsumeikan University,110
-11,27,岐阜大学,Gifu University,100
-12,18,福井大学,University of Fukui,93
-13,17,静岡大学,Shizuoka University,92
-14,E02,豊橋技術科学大学EV,Toyohashi University of TechnologyEV,91
-15,35,日本大学理工学部,Nihon University College of science of technology,88
-15,42,久留米工業大学,Kurume Institute of Technology,88
-17,21,山梨大学,University of Yamanashi,87
-17,30,新潟大学,Niigata University,87
-17,33,東京農工大学,Tokyo University of Agriculture and Technology,87
-17,34,九州工業大学,Kyushu Institute of Technology,87
-21,8,埼玉大学,Saitama University,85
-22,43,トヨタ名古屋自動車大学校,Toyota Technical College Nagoya,84
-23,16,同志社大学,Doshisha University,83
-24,15,日本工業大学,Nippon Institute of Technology,80
-25,44,大阪工業大学,Osaka Institute of Technology,77
-26,5,日本自動車大学校,Nihon Automobile College,75
-26,20,金沢大学,Kanazawa University,75
-28,E11,静岡理工科大学EV,Shizuoka Institute of Science and TechnologyEV,72
-29,38,富山大学,University of Toyama,70
-29,39,群馬大学,gunma university,70
-29,57,ホンダテクニカルカレッジ関西,Honda Technical College Kansai,70
-32,41,東京大学,The University of Tokyo,69
-33,58,北海道大学,Hokkaido University,64
-34,E05,東北大学EV,Tohoku UniversityEV,63
-35,25,工学院大学,Kogakuin University,61
-36,31,山陽小野田市立山口東京理科大学,Sanyo-Onoda City University,60
-37,28,静岡工科自動車大学校,Shizuoka Professional College of Automobile Technology,59
-38,36,広島工業大学,Hiroshima Institute of Technology,55
-39,48,九州大学,Kyushu University,50
-40,37,帝京大学,Teikyo University,49
-41,49,大阪府立大学,Osaka Prefecture University,48
-42,23,東京都市大学,Tokyo City University,47
-43,13,愛知工業大学,Aichi Institute of Technology,45
-44,E08,一関工業高等専門学校/岩手大学EV,"National Institute of Technology, Ichinoseki College/Iwate UniversityEV",44
-45,E07,神奈川大学EV,KanagawaUniversityEV,38
-45,E09,神奈川工科大学EV,Kanagawa Institute of TechnologyEV,38
-47,46,摂南大学,SETSUNAN UNIVERSITY,33
-48,E10,日産京都自動車大学校EV,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYOTOEV,30
-49,10,早稲田大学,Waseda University,28
-49,53,明星大学,Meisei University,28
-51,29,鳥取大学,Tottori University,25
-52,E04,トヨタ東京自動車大学校EV,TOYOTA TECHNICAL COLLEGE TOKYOEV,24
-53,59,専門学校麻生工科自動車大学校,ASO COLLEGE OF AUTOMOTIVE ENGINEERING AND TECHNOLOGY,21
-54,E03,ものつくり大学EV,Institute of TechnologistsEV,12
-55,61,福井工業大学,Fukui University of Technology,6
-56,7,上智大学,Sophia University,5
-56,14,東京理科大学,Tokyo University of Science,5
-56,32,金沢工業大学,Kanazawa Institute of Technology,5
-59,24,大阪産業大学,Osaka Sangyo University,0
-59,45,崇城大学,Sojo University,0
-59,E12,東京工科大学EV,Tokyo University of TechnologyEV,0
+1,1,���É��H�Ƒ�w,Nagoya Institute of Technology,150
+2,12,���s��w,Kyoto University,145
+3,19,��t��w,Chiba University,129
+3,E01,���É���wEV,Nagoya UniversityEV,129
+5,9,����w,Osaka University,121
+6,22,�����w,Meijo University,120
+7,11,���s�H�|�@�ۑ�w,Kyoto Institute of Technology,113
+8,3,����w,Ibaraki University,112
+9,2,�_�ˑ�w,Kobe University,110
+9,6,�����ّ�w,Ritsumeikan University,110
+11,27,�򕌑�w,Gifu University,100
+12,18,�����w,University of Fukui,93
+13,17,�É���w,Shizuoka University,92
+14,E02,�L���Z�p�Ȋw��wEV,Toyohashi University of TechnologyEV,91
+15,35,���{��w���H�w��,Nihon University College of science of technology,88
+15,42,�v���čH�Ƒ�w,Kurume Institute of Technology,88
+17,21,�R����w,University of Yamanashi,87
+17,30,�V����w,Niigata University,87
+17,33,�����_�H��w,Tokyo University of Agriculture and Technology,87
+17,34,��B�H�Ƒ�w,Kyushu Institute of Technology,87
+21,8,��ʑ�w,Saitama University,85
+22,43,�g���^���É������ԑ�w�Z,Toyota Technical College Nagoya,84
+23,16,���u�Б�w,Doshisha University,83
+24,15,���{�H�Ƒ�w,Nippon Institute of Technology,80
+25,44,���H�Ƒ�w,Osaka Institute of Technology,77
+26,5,���{�����ԑ�w�Z,Nihon Automobile College,75
+26,20,�����w,Kanazawa University,75
+28,E11,�É����H�ȑ�wEV,Shizuoka Institute of Science and TechnologyEV,72
+29,38,�x�R��w,University of Toyama,70
+29,39,�Q�n��w,gunma university,70
+29,57,�z���_�e�N�j�J���J���b�W�֐�,Honda Technical College Kansai,70
+32,41,������w,The University of Tokyo,69
+33,58,�k�C����w,Hokkaido University,64
+34,E05,���k��wEV,Tohoku UniversityEV,63
+35,25,�H�w�@��w,Kogakuin University,61
+36,31,�R�z����c�s���R���������ȑ�w,Sanyo-Onoda City University,60
+37,28,�É��H�Ȏ����ԑ�w�Z,Shizuoka Professional College of Automobile Technology,59
+38,36,�L���H�Ƒ�w,Hiroshima Institute of Technology,55
+39,48,��B��w,Kyushu University,50
+40,37,�鋞��w,Teikyo University,49
+41,49,���{����w,Osaka Prefecture University,48
+42,23,�����s�s��w,Tokyo City University,47
+43,13,���m�H�Ƒ�w,Aichi Institute of Technology,45
+44,E08,��֍H�ƍ������w�Z/����wEV,"National Institute of Technology, Ichinoseki College/Iwate UniversityEV",44
+45,E07,�_�ސ��wEV,KanagawaUniversityEV,38
+45,E09,�_�ސ�H�ȑ�wEV,Kanagawa Institute of TechnologyEV,38
+47,46,�ۓ��w,SETSUNAN UNIVERSITY,33
+48,E10,���Y���s�����ԑ�w�ZEV,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYOTOEV,30
+49,10,����c��w,Waseda University,28
+49,53,������w,Meisei University,28
+51,29,�����w,Tottori University,25
+52,E04,�g���^���������ԑ�w�ZEV,TOYOTA TECHNICAL COLLEGE TOKYOEV,24
+53,59,���w�Z�����H�Ȏ����ԑ�w�Z,ASO COLLEGE OF AUTOMOTIVE ENGINEERING AND TECHNOLOGY,21
+54,E03,���̂����wEV,Institute of TechnologistsEV,12
+55,61,����H�Ƒ�w,Fukui University of Technology,6
+56,7,��q��w,Sophia University,5
+56,14,�������ȑ�w,Tokyo University of Science,5
+56,32,����H�Ƒ�w,Kanazawa Institute of Technology,5
+59,24,���Y�Ƒ�w,Osaka Sangyo University,0
+59,45,�����w,Sojo University,0
+59,E12,�����H�ȑ�wEV,Tokyo University of TechnologyEV,0
