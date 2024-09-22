@@ -1,0 +1,79 @@
+Place,Car No.,Team,Team.1,Adjusted Cost: $(Include Penalty)(Include EV Incentive),Price Score,Discussion Score(Include Penalty),ScenarioScore,Total Score
+1,C08,同志社大学,Doshisha University,14393,40.0,38.82,15.0,93.82
+2,C09,日本工業大学,Nippon Institute of Technology,18911,25.95,32.94,14.0,72.89
+3,C06,神戸大学,Kobe University,18961,25.83,31.18,14.0,71.01
+4,C12,京都大学,Kyoto University,24421,15.85,40.0,15.0,70.85
+5,C01,京都工芸繊維大学,Kyoto Institute of Technology,27974,11.45,38.82,18.0,68.27
+6,C11,九州工業大学,Kyushu Institute of Technology,19346,24.95,24.71,16.0,65.66
+7,C13,茨城大学,Ibaraki University,22556,18.72,36.47,10.0,65.19
+8,C22,大阪大学,Osaka University,28080,11.34,32.35,17.0,60.69
+9,E01,名古屋大学EV,Nagoya University EV,45000,0.0,36.47,18.0,54.47
+10,C17,東京都立大学,Tokyo Metropolitan University,15253,36.69,0.0,14.0,50.69
+11,C31,ホンダテクニカルカレッジ関西,Honda Technical College Kansai,15907,34.4,0.0,16.0,50.4
+12,C30,新潟大学,Niigata University,18182,27.74,9.41,9.0,46.15
+13,C02,日本自動車大学校,Nihon Automobile College,24736,15.41,14.12,16.5,46.03
+14,C26,東京都市大学,Tokyo City University,17854,28.6,0.0,12.0,40.6
+15,C36,金沢大学,Kanazawa University,17234,30.31,0.0,9.0,39.31
+16,C15,山陽小野田市立山口東京理科大学,Sanyo-onoda City University,17598,29.29,0.0,10.0,39.29
+17,C34,群馬大学,Gunma university,16669,31.97,0.0,6.5,38.47
+18,E03,東京大学EV,The University of TokyoEV,33254,6.64,14.12,17.0,37.76
+19,C62,広島大学,Hiroshima University,17876,28.54,0.0,8.0,36.54
+20,C27,岡山大学,Okayama University,20051,23.41,0.0,12.0,35.41
+21,C25,北九州市立大学,The University of Kitakyushu,19284,25.09,0.0,10.0,35.09
+22,C43,広島工業大学,Hiroshima Institute of Technology,19034,25.66,0.0,8.0,33.66
+23,C04,工学院大学,Kogakuin University,21740,20.13,0.0,13.0,33.13
+24,C05,名城大学,Meijo University,21857,19.92,0.0,13.0,32.92
+25,C23,東京農工大学,Tokyo University of Agriculture andTechnology,22527,18.77,2.35,11.5,32.62
+26,C37,埼玉大学,Saitama University,24518,15.71,0.0,16.0,31.71
+27,C28,日本大学生産工学部,"College of Industrial Technology, NihonUniversity",20035,23.44,0.0,7.0,30.44
+28,C07,千葉大学,Chiba University,21017,21.47,0.0,8.5,29.97
+29,C44,久留米工業大学,Kurume Institute of Technology,21018,21.46,0.0,8.0,29.46
+30,C19,早稲田大学,Waseda University,24767,15.37,0.0,14.0,29.37
+31,C10,ホンダテクニカルカレッジ関東,Honda Technical College Kanto,25673,14.16,0.0,15.0,29.16
+32,C03,岐阜大学,Gifu University,23154,17.75,2.13,9.0,28.88
+33,E25,福井大学EV,University of FukuiEV,29009,10.37,9.41,9.0,28.78
+34,C18,北海道大学,Hokkaido University,22923,18.12,0.0,9.5,27.62
+35,E08,東北大学EV,Tohoku University EV,27567,11.9,0.0,15.0,26.9
+36,C40,明星大学,Meisei University,22392,18.99,0.0,7.5,26.49
+37,C24,金沢工業大学,Kanazawa Institute of Technology,27167,12.35,0.0,14.0,26.35
+38,E17,愛知工業大学EV,Aichi Institute of TechnologyEV,23119,17.8,0.0,8.0,25.8
+39,E09,山梨大学EV,University of YamanashiEV,30658,8.8,0.0,16.0,24.8
+40,C33,大阪工業大学,Osaka Institute of Technology,21438,20.68,0.0,4.0,24.68
+41,C14,芝浦工業大学,Shibaura Institute of Technology,23034,17.94,0.0,6.5,24.44
+42,C32,東京理科大学,Tokyo University of Science,25565,14.3,0.0,9.0,23.3
+43,C35,近畿大学,Kindai University,28930,10.45,0.0,12.5,22.95
+43,E20,富山大学EV,University of ToyamaEV,26825,12.74,4.71,5.5,22.95
+45,C67,Universiti Putra Malaysia,Universiti Putra Malaysia,28517,10.87,0.0,12.0,22.87
+46,E11,上智大学EV,Sophia University,29585,9.8,0.0,13.0,22.8
+47,C64,大阪産業大学,Osaka Sangyo University,28532,10.86,0.0,11.0,21.86
+48,C55,国士舘大学,Kokushikan University,23774,16.8,0.0,5.0,21.8
+49,C38,福井工業大学,Fukui University of Technology,24493,15.75,0.0,5.0,20.75
+50,C39,大阪公立大学,Osaka Metropolitan University,24051,16.38,0.0,4.0,20.38
+51,C60,青山学院大学,Aoyama Gakuin University,23920,16.58,0.0,3.5,20.08
+52,E07,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,26561,13.06,0.0,7.0,20.06
+53,C21,日本大学理工学部,Nihon University College of Science ofTechnology,25062,14.97,0.0,5.0,19.97
+54,E18,ものつくり大学EV,Institute of TechnologistsEV,31003,8.49,0.0,10.0,18.49
+55,C51,Harbin Institute of Technology at Weihai,Harbin Institute of Technology at Weihai,31986,7.65,0.0,10.0,17.65
+56,C41,立命館大学,Ritsumeikan University,31584,7.99,0.0,9.0,16.99
+57,C20,トヨタ名古屋自動車大学校,Toyota Technical College Nagoya,26660,12.94,0.0,4.0,16.94
+58,C52,Kasetsart University,Kasetsart University,29496,9.89,0.0,6.0,15.89
+59,C48,静岡工科自動車大学校,Shizuoka Professional College Of AutomobileTechnology Sports,29335,10.05,0.0,5.0,15.05
+60,E12,神奈川工科大学EV,Kanagawa Institute of Technology,33255,6.64,0.0,7.0,13.64
+61,C50,Jilin University,Jilin University,35457,5.06,0.0,8.0,13.06
+62,E21,Jilin University EV,Jilin University EV,45000,0.0,0.0,13.0,13.0
+63,C46,崇城大学,Sojo University,34323,5.85,0.0,7.0,12.85
+64,E23,National Taiwan University EV,National Taiwan University EV,39153,2.81,0.0,10.0,12.81
+65,E14,日産京都自動車大学校EV,Nissan Automobile Technical Collage Kyoto,30506,8.94,0.0,3.5,12.44
+66,C59,東海大学,Tokai University,35893,4.77,0.0,7.0,11.77
+67,C16,帝京大学,teikyoniversity,31667,7.92,0.0,3.0,10.92
+68,E02,名古屋工業大学EV,Nagoya Institute of TechnologyEV,39674,2.53,0.0,7.0,9.53
+69,E04,静岡大学EV,Shizuoka University,38319,3.28,0.0,6.0,9.28
+70,E36,一関工業高等専門学校/岩手大学EV,"National Institute of Technology, IchinosekiCollege /Iwate UniversityEV",40067,2.32,0.0,3.0,5.32
+71,E15,東京工科大学EV,Tokyo University TechnologyEV,44214,0.33,0.0,2.5,2.83
+72,C49,Tongji University,Tongji University,45000,0.0,0.0,2.0,2.0
+73,C47,東北学院大学,Tohoku Gakuin University,-,0.0,0.0,0.0,0.0
+73,C57,三重大学,Mie University,-,0.0,0.0,0.0,0.0
+73,C63,室蘭工業大学,Muroran Institute of Technology,-,0.0,0.0,0.0,0.0
+73,E10,National Cheng Kung University EV,National Cheng Kung University EVEV,45000,0.0,0.0,0.0,0.0
+73,E13,豊橋技術科学大学EV,Toyohashi University of Technology EV,45000,0.0,0.0,0.0,0.0
+73,E16,横浜国立大学EV,Yokohama National UniversityEV,-,0.0,0.0,0.0,0.0

@@ -1,0 +1,70 @@
+Place,CarNo.,Team,Team.1,Time,Laps,# of Cones,Off Course/Missed,Other TimePenalty,OtherPoint,Adj. Time,EnduranceScore
+1,1,Kyoto Institute of Technology,京都工芸繊維大学,1262.002,20,4,0,0.000,0.0,1270.00,275.0
+2,3,Nihon Automobile College,日本自動車大学校,1296.891,20,4,0,0.000,0.0,1304.89,253.46
+3,14,Gifu University,岐阜大学,1297.211,20,11,0,0.000,0.0,1357.21,223.23
+4,7,Kogakuin University,工学院大学,1273.498,20,3,0,79.545,0.0,1359.04,222.22
+5,4,Chiba University,千葉大学,1363.082,20,6,0,0.000,0.0,1375.08,213.44
+6,8,Meijo University,名城大学,1340.621,20,14,0,0.000,0.0,1400.62,199.87
+7,51,Prince of Songkhla University,Prince of Songkhla University,1383.375,20,9,0,1.000,0.0,1402.37,198.96
+8,5,Nippon Institute of Technology,日本工業大学,1397.726,20,3,0,0.000,0.0,1403.72,198.26
+9,10,Honda Technical College Kanto,ホンダテクニカルカレッジ関東,1412.249,20,1,0,0.000,0.0,1414.24,192.84
+10,20,Kobe University,神戸大学,1408.906,20,4,0,0.000,0.0,1416.90,191.48
+11,13,Sanyo-Onoda City University,山陽小野田市立山口東京理科大学,1419.642,20,3,0,0.000,0.0,1425.64,187.05
+12,32,Shibaura Institute of Technology,芝浦工業大学,1439.229,20,1,0,0.000,0.0,1441.22,179.29
+13,17,Doshisha University,同志社大学,1465.785,20,1,0,0.000,0.0,1467.78,166.45
+14,9,Ibaraki University,茨城大学,1427.763,20,11,2,0.000,0.0,1527.76,139.08
+15,18,Kyushu Institute of Technology,九州工業大学,1467.516,20,14,1,0.000,0.0,1547.51,130.54
+16,2,Kyoto University,京都大学,1566.631,20,3,0,0.000,0.0,1572.63,119.98
+17,15,Teikyo University,帝京大学,1406.902,20,49,1,0.000,0.0,1576.90,118.22
+18,26,Tokyo Metropolitan University,東京都立大学,1564.234,20,7,0,0.000,0.0,1578.23,117.67
+19,27,Hokkaido University,北海道大学,1560.810,20,0,1,0.000,0.0,1580.81,116.61
+20,40,Kanazawa Institute of Technology,金沢工業大学,1680.637,20,6,0,0.000,0.0,1692.63,73.86
+21,E03,The University of TokyoEV,東京大学EV,1752.827,20,0,0,0.000,0.0,1752.82,53.1
+22,E05,Nagoya Institute of TechnologyEV,名古屋工業大学EV,1782.241,20,0,0,0.000,0.0,1782.24,43.47
+23,33,Tokyo City University,東京都市大学,1948.406,20,39,0,7.000,0.0,2075.40,25.0
+24,23,Waseda University,早稲田大学,1136.234,15,8,0,120.000,0.0,1272.23,15.0
+25,56,Universitas Sebelas Maret,Universitas Sebelas Maret,1378.949,14,10,0,0.000,0.0,1408.94,14.0
+26,6,University of Toyama,富山大学,942.507,13,10,0,0.000,0.0,972.50,13.0
+27,E07,Shizuoka UniversityEV,静岡大学EV,901.555,12,11,0,120.000,0.0,1081.55,12.0
+28,16,"College of Science and Technology, Nihon University",日本大学理工学部,873.745,10,0,0,0.000,0.0,873.74,10.0
+28,24,Toyota Technical College Nagoya,トヨタ名古屋自動車大学校,782.328,10,4,0,0.000,0.0,790.32,10.0
+28,E04,Nagoya University,名古屋大学EV,813.935,10,8,0,0.000,0.0,829.93,10.0
+31,39,Okayama University,岡山大学,636.787,8,6,1,0.000,0.0,668.78,8.0
+32,37,The University of Kitakyushu,北九州市立大学,237.178,3,4,0,0.000,0.0,245.17,3.0
+33,30,"College of Industrial Technology, Nihon University",日本大学生産工学部,173.591,2,0,0,0.000,0.0,173.59,2.0
+34,E01,Shizuoka Institute of Science and TechnologyEV,静岡理工科大学EV,83.511,1,0,0,0.000,0.0,83.510,1.0
+35,12,Tokyo University of Agriculture and Technology,東京農工大学,DNF,0,0,0,0.000,0.0,DNF,0.0
+,11,Saitama University,埼玉大学,DNF,0,0,0,0.000,0.0,DNF,
+,19,Kurume Institute of Technology,久留米工業大学,DNF,0,0,0,0.000,0.0,DNF,
+,21,Niigata University,新潟大学,DNF,0,0,0,0.000,0.0,DNF,
+,22,Osaka University,大阪大学,DNF,0,0,0,0.000,0.0,DNF,
+,25,OSAKA INSTITUTE OF TECHNOLOGY,大阪工業大学,DNF,0,0,0,0.000,0.0,DNF,
+,28,Honda Technical College Kansai,ホンダテクニカルカレッジ関西,DNF,0,0,0,0.000,0.0,DNF,
+,29,Tokyo Univercity of Science,東京理科大学,DNF,0,0,0,0.000,0.0,DNF,
+,34,Ritsumeikan university,立命館大学,DNF,0,0,0,0.000,0.0,DNF,
+,35,Fukui Univercity od Tecnology,福井工業大学,DNF,0,0,0,0.000,0.0,DNF,
+,36,Gunma University,群馬大学,DNF,0,0,0,0.000,0.0,DNF,
+,38,Kindai University,近畿大学,DNF,0,0,0,0.000,0.0,DNF,
+,41,Tottori University,鳥取大学,DNF,0,0,0,0.000,0.0,DNF,
+,42,Nishinippon Institute of Technology,西日本工業大学,DNF,0,0,0,0.000,0.0,DNF,
+,43,Hiroshima Institute of Technology,広島工業大学,DNF,0,0,0,0.000,0.0,DNF,
+,44,Meisei University,明星大学,DNF,0,0,0,0.000,0.0,DNF,
+,47,Osaka Metropolitan University,大阪公立大学,DNF,0,0,0,0.000,0.0,DNF,
+,48,sojo university,崇城大学,DNF,0,0,0,0.000,0.0,DNF,
+,49,Tohoku Gakuin University,東北学院大学,DNF,0,0,0,0.000,0.0,DNF,
+,50,Kanazawa University,金沢大学,DNF,0,0,0,0.000,0.0,DNF,
+,52,Khulna University of Engineering & Technology,Khulna University of Engineering & Technology,DNF,0,0,0,0.000,0.0,DNF,
+,E02,University of YamanashiEV,山梨大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E08,Kanagawa Institute of Technology,神奈川工科大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E09,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYO,日産京都自動車大学校EV,DNF,0,0,0,0.000,0.0,DNF,
+,E10,Toyohashi University of TechnologyEV,豊橋技術科学大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E11,Aichi Institute of TechnologyEV,愛知工業大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E12,Tohoku University,東北大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E13,Institute of TechnologistsEV,ものつくり大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E14,Sophia University/Aoyama Gakuin University,上智大学/青山学院大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E15,Tokyo University of TechnologyEV,東京工科大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E16,Shizuoka Professional College of Automobile Technol,静岡工科自動車大学校EV,DNF,0,0,0,0.000,0.0,DNF,
+,E19,Yokohama National University,横浜国立大学EV,DNF,0,0,0,0.000,0.0,DNF,
+,E21,INSTITUT TEKNOLOGI SEPULUH NOPEMBEREV,INSTITUT TEKNOLOGI SEPULUH NOPEMBEREV,DNF,0,0,0,0.000,0.0,DNF,
+,E22,Tongji University EV,Tongji University EV,DNF,0,0,0,0.000,0.0,DNF,
+,E26,National Cheng Kung UniversityEV,National Cheng Kung UniversityEV,DNF,0,0,0,0.000,0.0,DNF,

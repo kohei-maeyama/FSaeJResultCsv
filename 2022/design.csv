@@ -1,0 +1,64 @@
+Place,Car No.,Team,Team.1,Score
+1,6,京都工芸繊維大学,Kyoto Institute of Technology,150
+2,2,大阪大学,OSAKA UNIVERSITY,144
+3,E01,名古屋大学EV,Nagoya UniversityEV,128
+4,3,京都大学,Kyoto University,110
+5,15,同志社大学,Doshisha University,105
+6,14,茨城大学,Ibaraki University,103
+6,53,東海大学,Tokai University,103
+8,13,日本自動車大学校,Nihon Automobile College,98
+9,9,東京大学,The University of Tokyo,87
+10,5,千葉大学,Chiba University,86
+10,16,九州工業大学,Kyushu Institute of Technology,86
+12,E02,豊橋技術科学大学EV,Toyohashi University of Technology,83
+13,4,名古屋工業大学,Nagoya Institute of Technology,79
+13,E06,静岡理工科大学EV,Shizuoka Institute of Science and TechnologyEV,79
+15,7,岐阜大学,Gifu University,77
+16,39,東京理科大学,Tokyo University of Science,74
+16,48,ホンダテクニカルカレッジ関東,Honda Technical College Kanto,74
+18,30,富山大学,University of Toyama,72
+19,12,山梨大学,University of Yamanashi,71
+20,24,日本大学理工学部,Nihon University College of science of technology,70
+21,28,日本工業大学,Nippon Institute of Technology,69
+22,31,立命館大学,Ritsumeikan university,68
+23,10,名城大学,Meijo University,67
+24,1,神戸大学,Kobe University,63
+25,29,トヨタ名古屋自動車大学校,Toyota Technical College Nagoya,61
+25,E04,静岡大学EV,Shizuoka UniversityEV,61
+27,26,工学院大学,Kogakuin University,60
+28,18,福井大学,University of Fukui,59
+29,17,埼玉大学,Saitama University,58
+30,50,芝浦工業大学,Shibaura Institute of Technology,55
+31,11,東京農工大学,Tokyo University of Agriculture and Technology,54
+32,23,山陽小野田市立山口東京理科大学,Sanyo-Onoda City University,52
+33,E09,神奈川工科大学EV,Kanagawa Institute of TechnologyEV,51
+34,33,大阪工業大学,Osaka Institute of Technology,50
+35,25,帝京大学,Teikyo University,49
+36,E08,トヨタ東京自動車大学校EV,Toyota Technical College TokyoEV,48
+37,E11,日産京都自動車大学校EV,NISSAN AUTOMOBILE TECHNICAL COLLEGE KYOTOEV,47
+38,38,早稲田大学,Waseda University,46
+39,8,新潟大学,Niigata University,45
+39,E10,愛知工業大学EV,Aichi Institute of TechnologyEV,45
+41,E05,神奈川大学EV,Kanagawa University,42
+42,E03,東北大学EV,Tohoku UniversityEV,40
+43,32,久留米工業大学,Kurume Institute of Technology,38
+43,36,九州大学,Kyushu University,38
+43,51,東京都立大学,Tokyo Metropolitan University,38
+46,41,福井工業大学,Fukui University of Technology,36
+47,27,東京都市大学,Tokyo City University,35
+47,46,日本大学生産工学部,"College of Industrial Technology, Nihon University",35
+49,21,北海道大学,Hokkaido University,33
+50,20,群馬大学,Gunma University,31
+51,49,岡山大学,Okayama University,30
+52,52,北九州市立大学,The University of Kitakyushu,29
+53,19,ホンダテクニカルカレッジ関西,Honda Technical College Kansai,27
+53,47,近畿大学,Kindai University,27
+53,E07,ものつくり大学EV,Institute of TechnologistsEV,27
+56,34,広島工業大学,Hiroshima Institute Technology,25
+57,43,金沢工業大学,Kanazawa Institute of Technology,24
+58,42,鳥取大学,Tottori University,11
+59,55,西日本工業大学,NISHINIPPON INSTITUTE OF TECHNOLOGY,6
+59,E13,東京工科大学EV,Tokyo University of TechnologyEV,6
+61,35,明星大学,Meisei University,5
+61,E12,上智大学/青山学院大学EV,Sophia University/Aoyama Gakuin UniversityEV,5
+-,54,国士舘大学,KOKUSHIKANDAIGAKU,-
