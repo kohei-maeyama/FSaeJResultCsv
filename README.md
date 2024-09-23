@@ -20,30 +20,26 @@ csvファイルは、公益社団法人自動車技術会と無関係な個人�
 
 - デザインファイナルの結果はデザインの結果に統合
 - コスト&製造審査のAdjusted Costはカンマを含まない様式に変更
-- 注釈の消去（例: 2023年エンデュランスの(\*1)~(\*4)など）
+- 注釈の消去（例: 2023年エンデュランスの(\*1)~(\*4)）
 
 ## 文字コード
 
 csvファイルはshift-jisでエンコーディングされています。
 
-このため、Microsoft Excelでオープンしても文字化けしません。
+このため、文字化けすることなくMicrosoft Excelでデータを扱うことができます。
 
 ### UTF-8対応
 
-utf-8に変換するソフトをGitHubのReleasesページに公開しています。（Windows・Linux）
+全csvファイルを一括でutf-8に変換するpythonスクリプトを用意しています。
 
-ソースコード(言語: Rust)は`converter`フォルダにあります。
+このREADME.mdのあるフォルダをカレントディレクトリにして、`python converter.py`とコマンド実行すればshift-jisからutf-8に変換できます。
 
-#### 使い方
+utf-8からshift-jisに変換したい場合は、`python converter.py --inverse`と入力します。
 
-Linuxユーザーは`converter.exe`を`converter`に読み替えてください。
-
-1. `converter.exe`を本README.mdのある階層に置く。
-
-2. プログラムを実行する。（ダブルクリックする）
+`--inverse`を付す場面が逆（shift-jisのときに`--inverse`をつける、utf-8のときに`--inverse`をつけない）だと、変換はスキップされます。
 
 ## 課題提起・提案・要望
 
-データの誤りに気がついた場合や、配布のやり方に対する提案・要望は、GitHub Issueに投稿頂けますと幸いです。
+データの誤りに気がついた場合や、配布のやり方に対する提案・要望がある場合は、GitHub Issueに投稿頂けますと幸いです。
 
 Pull Requestは作成しないようにしてください。
