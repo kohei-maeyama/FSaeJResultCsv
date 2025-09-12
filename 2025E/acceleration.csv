@@ -1,0 +1,26 @@
+Place,Car No.,Team (EN),Team (JP),D1 Run 1 Time,D1 Run 1 # of Cones,D1 Run 1 Adj.,D1 Run 2 Time,D1 Run 2 # of Cones,D1 Run 2 Adj.,D2 Run 1 Time,D2 Run 1 # of Cones,D2 Run 1 Adj.,D2 Run 2 Time,D2 Run 2 # of Cones,D2 Run 2 Adj.,Viocount,Best Time,Event Score
+1,E01,Nagoya University EV,名古屋大学EV,4.787 ,,4.787 ,3.769 ,,3.769 ,3.706 ,,3.706 ,,,DNF,0,3.706 ,100.00 
+2,E08,Jilin University EV,Jilin University EV,3.844 ,,3.844 ,3.800 ,,3.800 ,6.817 ,,6.817 ,7.853 ,,7.853 ,0,3.800 ,92.91 
+3,E03,The University of TokyoEV,東京大学EV,4.208 ,,4.208 ,4.135 ,,4.135 ,,,DNF,,,DNF,0,4.135 ,70.27 
+4,E12,Shizuoka University,静岡大学EV,4.678 ,,4.678 ,4.601 ,,4.601 ,4.473 ,,4.473 ,4.476 ,,4.476 ,0,4.473 ,50.87 
+5,E02,Nagoya Institute of TechnologyEV,名古屋工業大学EV,4.543 ,,4.543 ,5.094 ,,5.094 ,,,DNF,,,DNF,0,4.543 ,47.21 
+6,E09,Nissan Automobile Technical College Kyoto EV,日産京都自動車大学校EV,4.706 ,,4.706 ,4.713 ,,4.713 ,4.800 ,,4.800 ,4.740 ,,4.740 ,0,4.706 ,39.12 
+7,E33,Universitas Gadjah Mada EV,Universitas Gadjah Mada EV,4.756 ,,4.756 ,4.764 ,,4.764 ,,,DNF,,,DNF,0,4.756 ,36.74 
+8,E05,Tohoku UniversityEV,東北大学EV,4.855 ,,4.855 ,4.832 ,,4.832 ,,,DNF,,,DNF,0,4.832 ,33.23 
+9,E06,University of ToyamaEV,富山大学EV,4.862 ,,4.862 ,4.930 ,,4.930 ,,,DNF,,,DNF,0,4.862 ,31.88 
+10,E07,University of YamanashiEV,山梨大学EV,5.035 ,,5.035 ,5.064 ,,5.064 ,,,DNF,,,DNF,0,5.035 ,24.37 
+11,E11,Aichi Institute of TechnologyEV,愛知工業大学EV,6.954 ,,6.954 ,5.513 ,,5.513 ,5.074 ,,5.074 ,,,DNF,0,5.074 ,22.75 
+12,E21,Yokohama National UniversityEV,横浜国立大学EV,6.467 ,,6.467 ,5.368 ,,5.368 ,6.100 ,,6.100 ,5.365 ,,5.365 ,0,5.365 ,11.40 
+13,E04,Sophia UniversityEV,上智大学EV,6.108 ,,6.108 ,6.270 ,,6.270 ,,,DNF,,,DNF,0,6.108 ,4.50 
+13,E31,National Yang Ming Chiao Tung University EV,National Yang Ming Chiao Tung University EV,8.659 ,,8.659 ,,,DNF,9.039 ,,9.039 ,,,DNF,0,8.659 ,4.50 
+13,E16,National Taiwan University EV,National Taiwan University EV,19.405 ,,19.405 ,25.158 ,,25.158 ,10.952 ,,10.952 ,10.935 ,,10.935 ,0,10.935 ,4.50 
+,E10,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,,,,,,,,,,,,,0,,
+,E13,University of FukuiEV,福井大学EV,,,,,,,,,,,,,0,,
+,E14,Institute of TechnologistsEV,ものつくり大学EV,,,,,,,,,,,,,0,,
+,E18,Tokyo University of TechnologyEV,東京工科大学EV,,,,,,,,,,,,,0,,
+,E19,"National Institute of Technology, Ichinoseki College/Iwate UniversityEV",一関工業高等専門学校/岩手大学EV,,,,,,,,,,,,,0,,
+,E20,Kanagawa Institute of TechnologyEV,神奈川工科大学EV,,,,,,,,,,,,,0,,
+,E22,Toyota Mobility Engineering College Nagoya,トヨタ名古屋自動車大学校,,,,,,,,,,,,,0,,
+,E23,National Institute of Technology Asahikawa CollegeEV,旭川工業高等専門学校EV,,,,,,,,,,,,,0,,
+,E26,Rajshahi University of Engineering & Technology(RUET)EV,Rajshahi University of Engineering & Technology(RUET)EV,,,,,,,,,,,,,0,,
+,E35,Prince of Songkla UniversityEV,Prince of Songkla UniversityEV,,,,,,,,,,,,,0,,
