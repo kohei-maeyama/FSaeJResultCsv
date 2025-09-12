@@ -62,7 +62,7 @@ def get_work_list(base_dir):
     work_list = []
 
     # フォルダ名が ^20[0-9]{2}$ にマッチする正規表現
-    re_pattern = re.compile(r'^20[0-9]{2}$')
+    re_pattern = re.compile(r'^20[0-9]{2}')
 
     # base_dir の直下にあるフォルダを列挙
     for entry in os.scandir(base_dir):
