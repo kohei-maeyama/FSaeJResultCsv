@@ -1,0 +1,26 @@
+Place,CarNo.,Team,Team.1,D1 Run 1 Time R,D1 Run 1 Time L,D1 Run 1 # of Cones,D1 Run 1 Adj.,D1 Run 2 Time R,D1 Run 2 Time L,D1 Run 2 # of Cones,D1 Run 2 Adj.,D2 Run 1 Time R,D2 Run 1 Time L,D2 Run 1 # of Cones,D2 Run 1 Adj.,D2 Run 2 Time R,D2 Run 2 Time L,D2 Run 2 # of Cones,D2 Run 2 Adj.,Vio Count,Best Time,Event Score
+1,E08,Jilin University EV,Jilin University EV,5.051 ,4.921 ,0,4.986 ,5.058 ,5.100 ,0,5.079 ,5.249 ,5.013 ,0,5.131 ,5.129 ,5.048 ,0,5.088 ,0,4.986 ,75.00 
+2,E02,Nagoya Institute of Technology EV,名古屋工業大学EV,5.140 ,5.044 ,0,5.092 ,5.173 ,5.064 ,0,5.118 ,,,,DNF,,,,DNF,0,5.092 ,66.81 
+3,E01,Nagoya University EV,名古屋大学EV,5.385 ,4.846 ,0,5.115 ,4.784 ,5.371 ,2,5.327 ,,,,DNF,,,,DNF,0,5.115 ,65.07 
+4,E03,The University of Tokyo EV,東京大学EV,5.293 ,5.221 ,0,5.257 ,,,,DNF,,,,DNF,,,,DNF,0,5.257 ,55.05 
+5,E04,Sophia University EV,上智大学EV,5.795 ,5.622 ,0,5.708 ,5.410 ,5.418 ,0,5.414 ,5.680 ,5.753 ,0,5.716 ,,,,DNF,0,5.414 ,44.83 
+6,E09,Nissan Automobile Technical College Kyoto EV,日産京都自動車大学校EV,5.749 ,5.646 ,8,6.697 ,5.623 ,5.297 ,0,5.460 ,5.627 ,5.412 ,4,6.019 ,,,,DNF,0,5.460 ,42.01 
+7,E21,Yokohama National University EV,横浜国立大学EV,5.545 ,5.468 ,2,5.756 ,5.542 ,5.406 ,0,5.474 ,6.233 ,5.913 ,0,6.073 ,6.099 ,5.831 ,0,5.965 ,0,5.474 ,41.16 
+8,E12,Shizuoka University EV,静岡大学EV,5.892 ,6.583 ,6,6.987 ,5.596 ,5.906 ,1,5.876 ,6.270 ,6.034 ,0,6.152 ,5.537 ,5.504 ,0,5.520 ,0,5.520 ,38.40 
+9,E31,National Yang Ming Chiao Tung University EV,National Yang Ming Chiao Tung University EV,6.243 ,6.052 ,0,6.147 ,5.285 ,5.961 ,0,5.623 ,5.803 ,5.703 ,0,5.753 ,,,,DNF,0,5.623 ,32.54 
+10,E11,Aichi Institute of Technology EV,愛知工業大学EV,6.730 ,6.333 ,0,6.531 ,5.984 ,6.209 ,0,6.096 ,6.009 ,5.720 ,0,5.864 ,,,,DNF,0,5.864 ,19.95 
+11,E16,National Taiwan University EV,National Taiwan University EV,5.969 ,5.988 ,0,5.978 ,5.912 ,5.874 ,0,5.893 ,,,,DNF,,,,DNF,0,5.893 ,18.56 
+12,E33,Universitas Gadjah Mada EV,Universitas Gadjah Mada EV,6.286 ,6.278 ,5,6.907 ,5.990 ,5.794 ,2,6.142 ,,,,DNF,,,,DNF,0,6.142 ,7.27 
+13,E05,Tohoku University EV,東北大学EV,6.136 ,6.576 ,1,6.481 ,6.403 ,6.614 ,0,6.508 ,,,,DNF,,,,DNF,0,6.481 ,3.50 
+13,E07,University of Yamanashi EV,山梨大学EV,7.353 ,6.689 ,0,7.021 ,,,,DNF,8.197 ,6.579 ,1,7.513 ,5.752 ,6.826 ,4,6.789 ,0,6.789 ,3.50 
+,E06,University of Toyama EV,富山大学EV,,,,,,,,,,,,,,,,,0,,
+,E10,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,,,,,,,,,,,,,,,,,0,,
+,E13,University of Fukui EV,福井大学EV,,,,,,,,,,,,,,,,,0,,
+,E14,Institute of Technologists EV,ものつくり大学EV,,,,,,,,,,,,,,,,,0,,
+,E18,Tokyo University of Technology EV,東京工科大学EV,,,,,,,,,,,,,,,,,0,,
+,E19,"National Institute of Technology, Ichinoseki College/Iwate University EV",一関工業高等専門学校/岩手大学EV,,,,,,,,,,,,,,,,,0,,
+,E20,Kanagawa Institute of Technology EV,神奈川工科大学EV,,,,,,,,,,,,,,,,,0,,
+,E22,Toyota Mobility Engineering College Nagoya EV,トヨタ名古屋自動車大学校EV,,,,,,,,,,,,,,,,,0,,
+,E23,National Institute of Technology Asahikawa College EV,旭川工業高等専門学校EV,,,,,,,,,,,,,,,,,0,,
+,E26,Rajshahi University of Engineering & Technology(RUET) EV,Rajshahi University of Engineering & Technology(RUET) EV,,,,,,,,,,,,,,,,,0,,
+,E35,Prince of Songkla University EV,Prince of Songkla University EV,,,,,,,,,,,,,,,,,0,,
