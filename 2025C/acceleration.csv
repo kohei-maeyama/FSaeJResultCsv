@@ -1,0 +1,59 @@
+Place,Car No.,Team (EN),Team (JP),D1 Run 1 Time,D1 Run 1 # of Cones,D1 Run 1 Adj.,D1 Run 2 Time,D1 Run 2 # of Cones,D1 Run 2 Adj.,D2 Run 1 Time,D2 Run 1 # of Cones,D2 Run 1 Adj.,D2 Run 2 Time,D2 Run 2 # of Cones,D2 Run 2 Adj.,Viocount,Best Time,Event Score
+1,C21,Chiba University,千葉大学,4.192 ,,4.192 ,4.181 ,,4.181 ,4.148 ,,4.148 ,3.967 ,,3.967 ,0,3.967 ,100.00 
+2,C08,Kyushu Institute of Technology,九州工業大学,4.460 ,,4.460 ,4.504 ,,4.504 ,4.086 ,,4.086 ,4.036 ,,4.036 ,0,4.036 ,95.10 
+3,C03,Nihon Automobile College,日本自動車大学校,4.110 ,,4.110 ,4.100 ,,4.100 ,4.221 ,,4.221 ,4.283 ,,4.283 ,0,4.100 ,90.70 
+4,C14,Hokkaido University,北海道大学,4.193 ,,4.193 ,4.159 ,,4.159 ,4.287 ,,4.287 ,4.132 ,,4.132 ,0,4.132 ,88.55 
+5,C07,The University of Osaka,大阪大学,4.185 ,,4.185 ,4.285 ,,4.285 ,4.178 ,,4.178 ,4.137 ,,4.137 ,0,4.137 ,88.22 
+6,C41,Kasetsart University,Kasetsart University,4.264 ,,4.264 ,4.154 ,,4.154 ,4.245 ,,4.245 ,4.173 ,,4.173 ,0,4.154 ,87.10 
+7,C06,Kyoto University,京都大学,4.492 ,,4.492 ,4.244 ,,4.244 ,4.191 ,,4.191 ,4.200 ,,4.200 ,0,4.191 ,84.68 
+8,C22,Ritsumeikan University,立命館大学,4.227 ,,4.227 ,4.519 ,,4.519 ,4.411 ,,4.411 ,4.358 ,,4.358 ,0,4.227 ,82.37 
+9,C12,Doshisha University,同志社大学,4.559 ,,4.559 ,4.635 ,,4.635 ,4.277 ,,4.277 ,4.259 ,,4.259 ,0,4.259 ,80.35 
+10,C10,Jilin University,Jilin University,4.484 ,,4.484 ,4.277 ,,4.277 ,,,DNF,,,DNF,0,4.277 ,79.23 
+11,C02,Kobe University,神戸大学,4.695 ,,4.695 ,4.358 ,,4.358 ,4.662 ,,4.662 ,4.614 ,,4.614 ,0,4.358 ,74.29 
+12,C37,Kogakuin University,工学院大学,4.541 ,,4.541 ,4.394 ,,4.394 ,,,DNF,,,DNF,0,4.394 ,72.15 
+13,C01,Kyoto Institute of Technology,京都工芸繊維大学,4.472 ,,4.472 ,4.462 ,,4.462 ,4.474 ,,4.474 ,4.414 ,,4.414 ,0,4.414 ,70.98 
+14,C04,Gifu University,岐阜大学,5.185 ,,5.185 ,4.773 ,,4.773 ,4.691 ,,4.691 ,4.479 ,,4.479 ,0,4.479 ,67.24 
+15,C18,Ibaraki University,茨城大学,4.592 ,,4.592 ,4.591 ,,4.591 ,4.665 ,,4.665 ,4.564 ,,4.564 ,0,4.564 ,62.52 
+16,C05,Nippon Institute of Technology,日本工業大学,4.810 ,,4.810 ,4.764 ,,4.764 ,4.852 ,,4.852 ,4.645 ,,4.645 ,0,4.645 ,58.18 
+17,C31,Osaka Metropolitan University,大阪公立大学,5.251 ,,5.251 ,5.315 ,,5.315 ,4.791 ,,4.791 ,4.675 ,,4.675 ,0,4.675 ,56.61 
+18,C34,okayama univercity,岡山大学,4.866 ,,4.866 ,4.908 ,,4.908 ,4.867 ,,4.867 ,4.718 ,,4.718 ,0,4.718 ,54.39 
+19,C44,Shizuoka Professional College of Automobile Technology Sports,静岡工科自動車大学校,4.727 ,,4.727 ,5.094 ,,5.094 ,,,DNF,,,DNF,0,4.727 ,53.93 
+20,C13,"College of Science and Technology, Nihon University",日本大学理工学部,4.793 ,,4.793 ,4.740 ,,4.740 ,,,DNF,,,DNF,0,4.740 ,53.27 
+21,C15,Shibaura Institute of Technology,芝浦工業大学,4.892 ,,4.892 ,4.753 ,,4.753 ,7.710 ,,7.710 ,9.226 ,,9.226 ,0,4.753 ,52.62 
+22,C58,Kanazawa Institute of Technology,金沢工業大学,4.772 ,,4.772 ,7.563 ,,7.563 ,,,DNF,,,DNF,0,4.772 ,51.66 
+23,C29,Teikyo University,帝京大学,5.558 ,,5.558 ,4.816 ,,4.816 ,4.865 ,,4.865 ,4.773 ,,4.773 ,0,4.773 ,51.61 
+24,C28,Honda Technical College Kansai,ホンダテクニカルカレッジ関西,4.799 ,,4.799 ,5.273 ,,5.273 ,,,DNF,,,DNF,0,4.799 ,50.32 
+25,C45,Osaka Sangyo University,大阪産業大学,8.177 ,,8.177 ,5.016 ,,5.016 ,6.910 ,,6.910 ,4.815 ,,4.815 ,0,4.815 ,49.54 
+26,C23,Kanazawa University,金沢大学,4.940 ,,4.940 ,5.037 ,,5.037 ,5.471 ,,5.471 ,5.166 ,,5.166 ,0,4.940 ,43.56 
+27,C19,The University of Kitakyushu,北九州市立大学,5.009 ,,5.009 ,5.167 ,,5.167 ,5.088 ,,5.088 ,5.221 ,,5.221 ,0,5.009 ,40.40 
+28,C25,"College of Industrial Technology, Nihon University",日本大学生産工学部,5.401 ,,5.401 ,5.033 ,,5.033 ,,,DNF,,,DNF,0,5.033 ,39.31 
+29,C09,Tokyo University of Agriculture and Technology,東京農工大学,6.187 ,,6.187 ,5.647 ,,5.647 ,5.429 ,,5.429 ,5.075 ,,5.075 ,0,5.075 ,37.44 
+30,C20,Waseda University,早稲田大学,6.034 ,,6.034 ,5.097 ,,5.097 ,,,DNF,,,DNF,0,5.097 ,36.48 
+31,C40,Hiroshima Institute of  Technology,広島工業大学,6.898 ,,6.898 ,5.234 ,,5.234 ,,,DNF,,,DNF,0,5.234 ,30.64 
+32,C11,Honda Technical College Kanto,ホンダテクニカルカレッジ関東,5.392 ,,5.392 ,5.253 ,,5.253 ,5.511 ,,5.511 ,5.450 ,,5.450 ,0,5.253 ,29.86 
+33,C52,Tohoku Gakuin University,東北学院大学,5.278 ,,5.278 ,,,DNF,,,DNF,,,DNF,0,5.278 ,28.83 
+34,C53,Tottori University,鳥取大学,5.362 ,,5.362 ,5.440 ,,5.440 ,10.196 ,,10.196 ,37.059 ,,37.059 ,0,5.362 ,25.46 
+35,C17,Sanyo-Onoda City University,山陽小野田市立山口東京理科大学,6.046 ,,6.046 ,5.406 ,,5.406 ,5.906 ,,5.906 ,5.402 ,,5.402 ,0,5.402 ,23.89 
+36,C32,OSAKA INSTITUTE OF TECHNOLOGY,大阪工業大学,5.588 ,,5.588 ,5.476 ,,5.476 ,,,DNF,,,DNF,0,5.476 ,21.05 
+37,C27,Toyota Mobility Engineering College Nagoya,トヨタ名古屋自動車大学校,5.892 ,,5.892 ,5.613 ,,5.613 ,,,DNF,,,DNF,0,5.613 ,15.98 
+38,C38,Kurume Institute of Technology,久留米工業大学,5.625 ,,5.625 ,8.077 ,,8.077 ,,,DNF,,,DNF,0,5.625 ,15.55 
+39,C24,Meijo University,名城大学,5.689 ,,5.689 ,5.724 ,,5.724 ,,,DNF,,,DNF,0,5.689 ,13.27 
+40,C49,Hiroshima University,広島大学,6.669 ,,6.669 ,6.745 ,,6.745 ,,,DNF,,,DNF,0,6.669 ,4.50 
+40,C42,Tokyo University of Science,東京理科大学,12.389 ,,12.389 ,,,DNF,,,DNF,,,DNF,0,12.389 ,4.50 
+40,C16,Tokyo Metropolitan University,東京都立大学,6.060 ,,6.060 ,5.986 ,,5.986 ,6.382 ,,6.382 ,6.017 ,,6.017 ,0,5.986 ,4.50 
+40,C50,Sojo University.,崇城大学,10.595 ,,10.595 ,7.883 ,,7.883 ,6.557 ,,6.557 ,7.055 ,,7.055 ,0,6.557 ,4.50 
+40,C30,Tokyo City University,東京都市大学,7.778 ,,7.778 ,11.832 ,,11.832 ,,,DNF,,,DNF,0,7.778 ,4.50 
+40,C48,Meisei University,明星大学,6.190 ,,6.190 ,,,DNF,,,DNF,,,DNF,0,6.190 ,4.50 
+,C33,Tokai University,東海大学,,,,,,,,,,,,,0,,
+,C35,Gunma University,群馬大学,,,,,,,,,,,,,0,,
+,C43,Kindai Univercity,近畿大学,,,,,,,,,,,,,0,,
+,C46,FukuiUniversityofTechnology,福井工業大学,,,,,,,,,,,,,0,,
+,C47,Aoyama Gakuin University,青山学院大学,,,,,,,,,,,,,0,,
+,C51,Shonan Institute of Technology,湘南工科大学,,,,,,,,,,,,,0,,
+,C54,Chiba Institute of Technology,千葉工業大学,,,,,,,,,,,,,0,,
+,C55,Muroran Institute of Technology,室蘭工業大学,,,,,,,,,,,,,0,,
+,C56,MIe Univercity,三重大学,,,,,,,,,,,,,0,,
+,C57,"National Institute of Technology(KOSEN), Toyota College",豊田工業高等専門学校,,,,,,,,,,,,,0,,
+,C59,"National Institute of Technology, Numazu College",沼津工業高等専門学校,,,,,,,,,,,,,0,,
+,C60,Guangxi University of Science and Technology,Guangxi University of Science and Technology,,,,,,,,,,,,,0,,
+,C62,Institut Teknologi Bandung,Institut Teknologi Bandung,,,,,,,,,,,,,0,,
