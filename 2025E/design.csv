@@ -1,26 +1,26 @@
-Place,Car No.,Team,Team.1,Score,Final
-,E01,名古屋大学EV,Nagoya University EV,FINAL,Final進出
-,E08,Jilin University EV,Jilin University EV,FINAL,Final進出
-3,E35,Prince of Songkla University EV,Prince of Songkla University EV,111.0 ,
-4,E02,名古屋工業大学EV,Nagoya Institute of Technology EV,101.0 ,
-5,E06,富山大学EV,University of Toyama EV,91.0 ,
-6,E03,東京大学EV,The University of Tokyo EV,88.0 ,
-6,E16,National Taiwan University EV,National Taiwan University EV,88.0 ,
-8,E04,上智大学EV,Sophia University EV,85.0 ,
-9,E05,東北大学EV,Tohoku University EV,77.0 ,
-10,E33,Universitas Gadjah Mada EV,Universitas Gadjah Mada EV,76.0 ,
-11,E07,山梨大学EV,University of Yamanashi EV,61.0 ,
-12,E12,静岡大学EV,Shizuoka University EV,51.0 ,
-12,E31,National Yang Ming Chiao Tung University EV,National Yang Ming Chiao Tung University EV,51.0 ,
-14,E26,Rajshahi University of Engineering & Technology(RUET)EV,Rajshahi University of Engineering & Technology(RUET) EV,50.0 ,
-15,E11,愛知工業大学EV,Aichi Institute of Technology EV,48.0 ,
-15,E13,福井大学EV,University of Fukui EV,48.0 ,
-17,E21,横浜国立大学EV,Yokohama National University EV,47.0 ,
-18,E09,日産京都自動車大学校EV,Nissan Automobile Technical College Kyoto EV,41.0 ,
-19,E20,神奈川工科大学EV,Kanagawa Institute of Technology EV,37.0 ,
-20,E22,トヨタ名古屋自動車大学校EV,Toyota Mobility Engineering College Nagoya EV,34.0 ,
-21,E14,ものつくり大学EV,Institute of Technologists EV,21.0 ,
-22,E19,一関工業高等専門学校/岩手大学EV,"National Institute of Technology, Ichinoseki College/Iwate University EV",17.0 ,
-23,E18,東京工科大学EV,Tokyo University of Technology EV,13.0 ,
-,E10,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,,
-,E23,旭川工業高等専門学校EV,National Institute of Technology Asahikawa College EV,,
+Place,Car No.,Team,Team.1,Score
+1,E08,Jilin University EV,Jilin University EV,150.0
+2,E01,名古屋大学EV,Nagoya University EV,139.0
+3,E35,Prince of Songkla University EV,Prince of Songkla University EV,111.0 
+4,E02,名古屋工業大学EV,Nagoya Institute of Technology EV,101.0 
+5,E06,富山大学EV,University of Toyama EV,91.0 
+6,E03,東京大学EV,The University of Tokyo EV,88.0 
+6,E16,National Taiwan University EV,National Taiwan University EV,88.0 
+8,E04,上智大学EV,Sophia University EV,85.0 
+9,E05,東北大学EV,Tohoku University EV,77.0 
+10,E33,Universitas Gadjah Mada EV,Universitas Gadjah Mada EV,76.0 
+11,E07,山梨大学EV,University of Yamanashi EV,61.0 
+12,E12,静岡大学EV,Shizuoka University EV,51.0 
+12,E31,National Yang Ming Chiao Tung University EV,National Yang Ming Chiao Tung University EV,51.0 
+14,E26,Rajshahi University of Engineering & Technology(RUET)EV,Rajshahi University of Engineering & Technology(RUET) EV,50.0 
+15,E11,愛知工業大学EV,Aichi Institute of Technology EV,48.0 
+15,E13,福井大学EV,University of Fukui EV,48.0 
+17,E21,横浜国立大学EV,Yokohama National University EV,47.0 
+18,E09,日産京都自動車大学校EV,Nissan Automobile Technical College Kyoto EV,41.0 
+19,E20,神奈川工科大学EV,Kanagawa Institute of Technology EV,37.0 
+20,E22,トヨタ名古屋自動車大学校EV,Toyota Mobility Engineering College Nagoya EV,34.0 
+21,E14,ものつくり大学EV,Institute of Technologists EV,21.0 
+22,E19,一関工業高等専門学校/岩手大学EV,"National Institute of Technology, Ichinoseki College/Iwate University EV",17.0 
+23,E18,東京工科大学EV,Tokyo University of Technology EV,13.0 
+,E10,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,
+,E23,旭川工業高等専門学校EV,National Institute of Technology Asahikawa College EV,
