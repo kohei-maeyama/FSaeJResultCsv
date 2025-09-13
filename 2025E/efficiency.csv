@@ -1,0 +1,26 @@
+Place,Car No.,Team,Team.1,Ave. Adj. Laptime,Laps,kWh Used,Adj. CO2,kgCO2 /100Km,Ave. Adj. CO2 /Lap,Eff. Factor,Eff. Score
+1,E07,University of Yamanash iEV,山梨大学EV,105.029,20.0,1.96,1.27,6.51,0.063,1.113,100.0
+2,E04,Sophia University EV,上智大学EV,93.57,13.0,1.86,1.21,9.54,0.093,0.854,65.84
+3,E06,University of Toyama EV,富山大学EV,95.412,20.0,3.05,1.98,10.12,0.099,0.789,57.28
+4,E01,Nagoya University EV,名古屋大学EV,82.431,20.0,3.63,2.36,12.07,0.118,0.766,54.27
+5,E21,Yokohama National University EV,横浜国立大学EV,98.184,20.0,3.15,2.05,10.47,0.102,0.741,51.0
+6,E02,Nagoya Institute of Technology EV,名古屋工業大学EV,79.935,20.0,4.2,2.73,13.95,0.136,0.683,43.36
+7,E12,Shizuoka University EV,静岡大学EV,89.315,20.0,4.07,2.65,13.52,0.132,0.631,36.47
+8,E05,Tohoku University EV,東北大学EV,99.746,19.0,3.78,2.46,13.21,0.129,0.578,29.55
+9,E03,The University of Tokyo EV,東京大学EV,80.487,20.0,5.34,3.47,17.71,0.173,0.534,23.8
+10,E08,Jilin University EV,Jilin University EV,84.33,20.0,6.38,4.15,21.18,0.207,,0.0
+10,E16,National Taiwan University EV,National Taiwan University EV,134.079,20.0,2.31,1.5,7.67,0.075,,0.0
+10,E33,Universitas Gadjah Mada EV,Universitas Gadjah Mada EV,119.636,20.0,3.9,2.54,12.96,0.127,,0.0
+,E09,Nissan Automobile Technical College Kyoto EV,日産京都自動車大学校EV,,,,,,,,
+,E10,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,,,,,,,,
+,E11,Aichi Institute of Technology EV,愛知工業大学EV,,,,,,,,
+,E13,University of Fukui EV,福井大学EV,,,,,,,,
+,E14,Institute of Technologists EV,ものつくり大学EV,,,,,,,,
+,E18,Tokyo University of Technology EV,東京工科大学EV,,,,,,,,
+,E19,"National Institute of Technology, Ichinoseki College/Iwate University EV",一関工業高等専門学校/岩手大学EV,,,,,,,,
+,E20,Kanagawa Institute of Technology EV,神奈川工科大学EV,,,,,,,,
+,E22,Toyota Mobility Engineering College Nagoya EV,トヨタ名古屋自動車大学校,,,,,,,,
+,E23,National Institute of Technology Asahikawa College EV,旭川工業高等専門学校EV,,,,,,,,
+,E26,Rajshahi University of Engineering & Technology(RUET) EV,Rajshahi University of Engineering & Technology(RUET)EV,,,,,,,,
+,E31,National Yang Ming Chiao Tung University EV,National Yang Ming Chiao Tung University EV,,,,,,,,
+,E35,Prince of Songkla University EV,Prince of Songkla University EV,,,,,,,,
