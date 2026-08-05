@@ -1,0 +1,55 @@
+Place,Car No.,Team,Team.1,Score
+1,C02,同志社大学,Doshisha University,75.0
+2,C01,京都工芸繊維大学,Kyoto Institute of Technology,73.27
+3,C10,九州工業大学,Kyushu Institute of Technology,69.82
+4,C03,大阪大学,The University of Osaka,68.1
+5,C05,日本自動車大学校,Nihon Automobile College,63.79
+6,C13,山陽小野田市立山口東京理科大学,Sanyo-Onoda City University,62.06
+6,C32,芝浦工業大学,Shibaura Institute of Technology,62.06
+8,C09,千葉大学,Chiba University,60.34
+9,C21,岡山大学,Okayama University,59.48
+10,C18,日本大学生産工学部,"College of Industrial Technology, Nihon University",57.75
+11,C46,群馬大学,Gunma university,56.03
+12,C35,名城大学,Meijo University,53.44
+13,C58,埼玉大学,Saitama University,52.58
+14,C16,金沢大学,Kanazawa University,50.86
+14,C26,京都大学,Kyoto University,50.86
+16,C04,Kasetsart University,Kasetsart University,50.0
+16,C06,岐阜大学,Gifu University,50.0
+16,C07,北海道大学,Hokkaido University,50.0
+16,C12,工学院大学,Kogakuin University,50.0
+16,C42,東京農工大学,Tokyo University of Agriculture and Technology,50.0
+21,C38,広島大学,HiroshimaUniversity,49.13
+22,C22,神戸大学,Kobe University,47.41
+23,C17,日本大学理工学部,"College of Science and Technology, Nihon University",45.68
+23,C41,東海大学,Tokai University,45.68
+25,C14,ホンダテクニカルカレッジ関東,Honda Technical College Kanto,43.96
+25,C50,Institut Teknologi Bandung,Institut Teknologi Bandung,43.96
+25,C54,青山学院大学,Aoyama Gakuin University,43.96
+25,C64,Institut Teknologi Sepuluh Nopember,Institut Teknologi Sepuluh Nopember,43.96
+29,C08,茨城大学,Ibaraki University,42.24
+29,C37,大阪公立大学,Osaka Metropolitan University,42.24
+31,C45,久留米工業大学,Kurume Institute of Technology,41.37
+31,C49,沼津工業高等専門学校,"National Institute of Technology, Numazu College",41.37
+31,C62,Universiti Putra Malaysia,Universiti Putra Malaysia,41.37
+34,C28,ホンダテクニカルカレッジ関西,Honda Technical College Kansai,40.51
+34,C43,明星大学,Meisei University,40.51
+34,C53,福井工業大学,Fukui University of Technology,40.51
+37,C27,大阪産業大学,Osaka Sangyo University,39.65
+37,C30,広島工業大学,Hiroshima Institute of Technology,39.65
+37,C51,湘南工科大学,Shonan Institute of Technology,39.65
+40,C57,豊田工業高等専門学校,"National Institute of Technology, Toyota College",38.79
+41,C15,立命館大学,Ritsumeikan University,37.93
+41,C47,近畿大学,Kindai University,37.93
+43,C20,早稲田大学,Waseda University,37.06
+43,C56,千葉工業大学,Chiba Institute of Technology,37.06
+45,C19,北九州市立大学,The University of Kitakyushu,36.2
+46,C36,東京都市大学,Tokyo City University,33.62
+47,C34,大阪工業大学,Osaka Institute of Technology,31.89
+47,C40,崇城大学,Sojo University,31.89
+49,C25,帝京大学,Teikyo University,31.03
+50,C11,日本工業大学,Nippon Institute of Technology,28.44
+50,C60,新潟大学,Niigatadaigaku,28.44
+52,C31,静岡工科自動車大学校,Shizuoka Professional College of Automobile Technology Sports,27.58
+53,C55,東北学院大学,Tohoku Gakuin University,20.68
+54,C44,鳥取大学,Tottori University,15.51
