@@ -1,0 +1,24 @@
+Place,Car No.,Team (EN),Team (JP),Run #1 Time,Run #1 # of Cones,Run #1 Off Course / Missed Slalom,Run #1 Adj.,Run #2 Time,Run #2 # of Cones,Run #2 Off Course / Missed Slalom,Run #2 Adj.,Run #3 Time,Run #3 # of Cones,Run #3 Off Course / Missed Slalom,Run #3 Adj.,Run #4 Time,Run #4 # of Cones,Run #4 Off Course / Missed Slalom,Run #4 Adj.,Viocount,Best Time,Event Score
+1,E01,Nagoya University EV,名古屋大学EV,65.472,0,0,65.472,72.955,0,0,72.955,72.411,1,2,114.411,,,,DNF,0,65.472,125
+2,E04,The University of Tokyo EV,東京大学EV,66.702,1,0,68.702,65.949,0,0,65.949,73.467,0,0,73.467,78.211,2,1,102.211,0,65.949,122.23
+3,E02,Nagoya Institute of Technology EV,名古屋工業大学EV,66.818,0,0,66.818,64.994,1,0,66.994,66.294,2,0,70.294,66.09,1,0,68.09,0,66.818,117.3
+4,E05,Univesity of Toyama EV,富山大学EV,70.21,3,0,76.21,69.415,0,0,69.415,77.911,4,1,105.911,68.245,1,0,70.245,0,69.415,103.31
+5,E24,Kyoto Institute of Technology EV,京都工芸繊維大学EV,71.974,0,0,71.974,70.462,0,0,70.462,71.855,0,0,71.855,69.671,0,0,69.671,0,69.671,101.98
+6,E10,Tohoku University EV,東北大学EV,71.777,0,0,71.777,70.399,0,0,70.399,79.101,0,1,99.101,71.737,1,0,73.737,0,70.399,98.27
+7,E08,University of Yamanashi EV,山梨大学EV,71.796,0,0,71.796,72.855,0,0,72.855,,,,DNF,,,,DNF,0,71.796,91.36
+8,E11,National Taiwan University EV,National Taiwan University EV,75.291,0,0,75.291,74.595,0,0,74.595,74.986,0,0,74.986,72.946,0,0,72.946,0,72.946,85.87
+9,E06,Shizuoka University EV,静岡大学EV,75.414,2,0,79.414,77.045,0,0,77.045,74.855,0,0,74.855,73.051,0,0,73.051,0,73.051,85.38
+10,E20,Institute of Technologists EV,ものつくり大学EV,84.378,2,2,128.378,,,,DNF,85.336,1,0,87.336,76.277,0,0,76.277,0,76.277,70.91
+11,E15,University of Fukui EV,福井大学EV,89.964,0,0,89.964,78.2,2,0,82.2,79.508,2,0,83.508,77.721,0,0,77.721,0,77.721,64.82
+12,E13,nissan automobile technical college kyoto EV,日産京都自動車大学校EV,91.652,3,1,117.652,78.453,1,0,80.453,,,,DNF,,,,DNF,0,80.453,53.89
+13,E18,Toyota Mobility Engineering College Nagoya EV,トヨタ名古屋自動車大学校EV,101.897,0,0,101.897,122.858,0,0,122.858,79.991,2,0,83.991,80.941,0,0,80.941,0,80.941,52.02
+14,E16,Aichi Institute of Technology EV,愛知工業大学EV,76.778,3,0,82.778,75.362,3,0,81.362,82.655,3,0,88.655,105.856,0,1,125.856,0,81.362,50.42
+15,E07,Yokohama National University EV,横浜国立大学EV,97.174,1,2,139.174,82.464,0,0,82.464,,,,DNF,,,,DNF,0,82.464,46.32
+16,E12,Universitas Gadjah Mada EV,Universitas Gadjah Mada EV,82.559,1,0,84.559,80.013,2,1,104.013,88.289,1,0,90.289,81.793,5,0,91.793,0,84.559,38.81
+17,E09,Sophia University EV,上智大学EV,118.624,3,1,144.624,104.727,0,0,104.727,103.538,0,0,103.538,98.32,0,0,98.32,0,98.32,6.5
+18,E14,National Yang Ming Chiao Tung University EV,National Yang Ming Chiao Tung University EV,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0
+18,E19,Kanagawa Institute of Technology EV,神奈川工科大学EV,,,,DNF,,,,DNF,,,,DNF,,,,DNF,0,DNF,0
+,E21,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,,,,,,,,,,,,,,,,,,,
+,E22,Tokyo University of Technology EV,東京工科大学EV,,,,,,,,,,,,,,,,,,,
+,E26,Shizuoka Institute of Science and Technology EV,静岡理工科大学EV,,,,,,,,,,,,,,,,,,,
+,E28,National Cheng Kung University EV,National Cheng Kung University EV,,,,,,,,,,,,,,,,,,,

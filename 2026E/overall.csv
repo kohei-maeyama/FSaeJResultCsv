@@ -1,0 +1,24 @@
+Place,CarNo.,Team (EN),Team (JP),Total Score,Cost Score,Presentation Score,Design Score,Acceleration Score,Skid Pad Score,Autocross Score,Endurance Score,Efficiency Score,Design Document Late Submission,Non-participation in Design Event,Cost Document Late Submission,Non-participationin Cost Event,Presentation Document Late Submission,Non-participationin Presentation Event,Inspection Document Late Submission,Noise After Endurance,Total Penalties
+1,E01,Nagoya University EV,名古屋大学EV,586.98,63.73,73.25,150.0,100.00,75.00,125.00,,,,,,,,,,,0.0
+2,E02,Nagoya Institute of Technology EV,名古屋工業大学EV,463.67,46.95,67.15,145.8,41.86,64.61,117.30,,,,,,,,,-20,,-20.0
+3,E04,The University of Tokyo EV,東京大学EV,384.89,41.87,70.63,65.2,64.23,40.73,122.23,,,,,,,,,-20,,-20.0
+4,E24,Kyoto Institute of Technology EV,京都工芸繊維大学EV,384.81,33.80,65.40,81.6,50.09,51.94,101.98,,,,,,,,,,,0.0
+5,E05,Univesity of Toyama EV,富山大学EV,353.61,30.05,68.89,82.6,7.92,60.84,103.31,,,,,,,,,,,0.0
+6,E08,University of Yamanashi EV,山梨大学EV,347.69,52.00,40.98,82.0,59.23,42.12,91.36,,,,,-20,,,,,,-20.0
+7,E11,National Taiwan University EV,National Taiwan University EV,325.83,17.77,75.00,97.8,10.24,39.15,85.87,,,,,,,,,,,0.0
+8,E10,Tohoku University EV,東北大学EV,322.63,28.98,52.32,81.8,19.21,42.05,98.27,,,,,,,,,,,0.0
+9,E06,Shizuoka University EV,静岡大学EV,279.33,41.14,56.68,39.5,49.55,7.08,85.38,,,,,,,,,,,0.0
+10,E12,Universitas Gadjah Mada EV,Universitas Gadjah Mada EV,230.86,9.00,68.89,97.8,30.91,15.45,38.81,,,-30,,,,,,,,-30.0
+11,E07,Yokohama National University EV,横浜国立大学EV,212.31,31.23,53.19,51.9,4.50,45.17,46.32,,,,,,,,,-20,,-20.0
+12,E18,Toyota Mobility Engineering College Nagoya EV,トヨタ名古屋自動車大学校EV,193.44,22.08,58.43,36.6,4.50,19.81,52.02,,,,,,,,,,,0.0
+13,E13,nissan automobile technical college kyoto EV,日産京都自動車大学校EV,187.23,24.33,47.09,40.7,32.12,19.10,53.89,,,-30,,,,,,,,-30.0
+14,E15,University of Fukui EV,福井大学EV,139.88,19.64,46.22,34.7,4.50,,64.82,,,-30,,,,,,,,-30.0
+15,E14,National Yang Ming Chiao Tung University EV,National Yang Ming Chiao Tung University EV,134.88,18.58,37.50,78.8,,,0.00,,,,,,,,,,,0.0
+16,E09,Sophia University EV,上智大学EV,127.99,21.02,44.47,56.0,,,6.50,,,,,,,,,,,0.0
+17,E19,Kanagawa Institute of Technology EV,神奈川工科大学EV,123.64,14.71,48.83,55.6,4.50,0.00,0.00,,,,,,,,,,,0.0
+18,E16,Aichi Institute of Technology EV,愛知工業大学EV,122.92,12.37,34.88,,9.30,45.95,50.42,,,,-30,,,,,,,-30.0
+19,E20,Institute of Technologists EV,ものつくり大学EV,106.54,6.00,32.26,17.2,4.50,15.67,70.91,,,,,-40,,,,,,-40.0
+20,E26,Shizuoka Institute of Science and Technology EV,静岡理工科大学EV,56.03,8.97,32.26,34.8,,,,,,,,-20,,,,,,-20.0
+21,E22,Tokyo University of Technology EV,東京工科大学EV,13.32,8.50,30.52,24.3,,,,,,-30,,,,,,-20,,-50.0
+22,E21,Institut Teknologi Sepuluh Nopember EV,Institut Teknologi Sepuluh Nopember EV,6.70,19.20,37.50,-30.0,,,,,,,,,,,,-20,,-20.0
+23,E28,National Cheng Kung University EV,National Cheng Kung University EV,-38.14,-30.00,41.86,-30.0,,,,,,,,,,-20,,,,-20.0
